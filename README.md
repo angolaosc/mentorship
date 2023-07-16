@@ -10,11 +10,11 @@ Os objectivos do programa são:
 
 O `AOSC Mentorship` tem duração de um mês e é composto por três fases:
 
-| Fase         | Descrição   | Quando                                                                       |
-|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Pré-mentoria | Nesta fase, os participantes passarão por uma semana de workshops introdutórios, nos quais serão apresentadas ferramentas como Git e GitHub, bem como uma introdução ao desenvolvimento open-source. | Semana 1 |
-| Mentoria      | Na fase de mentoria, os participantes serão emparelhados com mentores experientes da comunidade de código aberto. Os mentores irão fornecer orientação, apoio técnico e acompanhamento durante o desenvolvimento de projetos de código aberto. | Semana 2-4                     |
-| Pós-mentoria  | Após a conclusão da fase de mentoria, os participantes serão orientados sobre os próximos passos a seguir em suas jornadas de desenvolvimento open-source. Isso pode incluir informações sobre programas de mentoria internacionais e conselhos sobre como continuar contribuindo para projetos de código aberto.                | Último dia do programa |
+| Fase        | Duração    | Descrição                                                        |
+|-------------|------------|------------------------------------------------------------------|
+| Pré-mentoria| 1 semana   | Nesta fase, os participantes passarão por workshops introdutórios, aprendendo sobre ferramentas como Git e GitHub, e receberão uma introdução ao desenvolvimento open-source. O objetivo é prepará-los para a próxima fase da mentoria. |
+| Mentoria    | 3 semanas  | Durante a fase de mentoria, os participantes serão emparelhados com mentores experientes em projetos de código aberto. Eles trabalharão em conjunto para contribuir ativamente para projetos de código aberto, recebendo orientação, feedback e suporte dos mentores. O objetivo é aprimorar suas habilidades técnicas, adquirir experiência prática em desenvolvimento de software e contribuir efetivamente para a comunidade open-source. |
+| Pós-mentoria| 1 dia   | Na fase de pós-mentoria, os participantes terão a oportunidade de consolidar o conhecimento adquirido e refletir sobre sua experiência. Eles receberão orientações sobre como continuar contribuindo para projetos de código aberto, participar de programas de mentoria internacionais e buscar oportunidades de desenvolvimento de carreira no campo do open-source. O objetivo é capacitar os participantes a continuarem seu crescimento e envolvimento na comunidade open-source mesmo após o término do programa. |
 
 ## Code of Conduct(CoC)
 
