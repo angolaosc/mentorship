@@ -10,13 +10,11 @@ Os objectivos do programa são:
 
 O `AOSC Mentorship` tem duração de um mês e é composto por três fases:
 
-| Fase         | Descrição                                                                                                                                                  |
+| Fase         | Descrição   | Quando                                                                       |
 |--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Pré-mentoria | Nesta fase, os participantes passarão por uma semana de workshops introdutórios, nos quais serão apresentadas ferramentas como Git e GitHub, bem como uma introdução ao desenvolvimento open-source. |
-| Mentoria      | Na fase de mentoria, os participantes serão emparelhados com mentores experientes da comunidade de código aberto. Os mentores irão fornecer orientação, apoio técnico e acompanhamento durante o desenvolvimento de projetos de código aberto.                        |
-| Pós-mentoria  | Após a conclusão da fase de mentoria, os participantes serão orientados sobre os próximos passos a seguir em suas jornadas de desenvolvimento open-source. Isso pode incluir informações sobre programas de mentoria internacionais e conselhos sobre como continuar contribuindo para projetos de código aberto.                |
-
-Fornece uma base sólida de conhecimento e habilidades para desenvolvedores angolanos
+| Pré-mentoria | Nesta fase, os participantes passarão por uma semana de workshops introdutórios, nos quais serão apresentadas ferramentas como Git e GitHub, bem como uma introdução ao desenvolvimento open-source. | Semana 1 |
+| Mentoria      | Na fase de mentoria, os participantes serão emparelhados com mentores experientes da comunidade de código aberto. Os mentores irão fornecer orientação, apoio técnico e acompanhamento durante o desenvolvimento de projetos de código aberto. | Semana 2-4                     |
+| Pós-mentoria  | Após a conclusão da fase de mentoria, os participantes serão orientados sobre os próximos passos a seguir em suas jornadas de desenvolvimento open-source. Isso pode incluir informações sobre programas de mentoria internacionais e conselhos sobre como continuar contribuindo para projetos de código aberto.                | Último dia do programa |
 
 ## Code of Conduct(CoC)
 
