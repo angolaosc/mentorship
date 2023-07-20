@@ -5,7 +5,9 @@ Os objectivos do programa são:
 
 - Preparar os desenvolvedores com conhecimentos essenciais sobre ferramentas e práticas utilizadas no desenvolvimento de software livre
 - Conectar mentores experientes, colaboradores e organizações.
-  
+
+O `AOSC Mentorship` estará aberto para a próxima turma: [Primeira Edição, Agosto de 2023](program/2023/README.md).
+
 ## Estrutura do Programa
 
 O `AOSC Mentorship` tem duração de um mês e é composto por três fases:
@@ -15,6 +17,27 @@ O `AOSC Mentorship` tem duração de um mês e é composto por três fases:
 | Pré-mentoria| 1 semana       | Nesta fase, os participantes passarão por workshops introdutórios, aprendendo sobre ferramentas como Git e GitHub, e receberão uma introdução ao desenvolvimento open-source. O objetivo é prepará-los para a próxima fase da mentoria. |
 | Mentoria    | 3 semanas      | Durante a fase de mentoria, os participantes serão emparelhados com mentores experientes em projetos de código aberto. Eles trabalharão em conjunto para contribuir ativamente para o projeto, recebendo orientação, feedback e suporte dos mentores. |
 | Pós-mentoria| 1 dia          | Na fase de pós-mentoria, os participantes terão a oportunidade de consolidar o conhecimento adquirido e refletir sobre sua experiência. Eles receberão orientações sobre como continuar contribuindo para projetos de código aberto, participar de programas de mentoria internacionais e buscar oportunidades de desenvolvimento de carreira no campo do open-source. O objetivo é capacitar os participantes a continuarem seu crescimento e envolvimento na comunidade open-source mesmo após o término do programa. |
+
+## Guias do Programa
+
+Consulte a guia geral do programa para obter mais informações, [AOSC Mentorship Program Guide](program/README.md).
+
+### Como participar
+
+#### Projectos
+
+
+#### Mentores
+
+
+#### Participantes
+
+Brevemente
+
+#### Eligibilidade
+
+
+### Critérios e processo de seleção
 
 ## Code of Conduct(CoC)
 
