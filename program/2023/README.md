@@ -28,12 +28,13 @@ Porfavor, encorajamos os mantenedores de projectos a submeterem seus projectos o
 
 ### Instruções de inscrição para participantes
 
-Os participantes são convidados a se inscreverem através do formulário de inscrição [AOSC Mentorship Program]() até 08 de Agosto de 2023. Para mais informações sobre o processo de inscrição, consulte o [AOCS Mentorship Program Guide](https://github.com/angolaosc/mentorship/blob/main/resources/AOSC%20_Mentorship_Program_Guide.pdf).
+Os participantes são convidados a se inscreverem através do formulário de inscrição [AOSC Mentorship Program]() até 08 de Agosto de 2023. Para mais informações sobre o processo de inscrição, consulte o [AOSC Mentorship Program Guide](https://github.com/angolaosc/mentorship/blob/main/resources/AOSC_20_Mentorship_Program_Guide.pdf).
 
 ### Projectos participantes na primeira edição
 
 Encontre a lista de projectos participantes na primeira edição abaixo. Os participantes são encorajados a se familiarizarem com os projectos e fazerem suas escolhas antes do início do programa.
-....
+
+TBA
 
 ### Comunicação
 
