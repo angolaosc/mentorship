@@ -7,16 +7,6 @@ O programa terá duração de 1 mês.
 
 ### Timeline
 
-Submissão de projectos/Mentores: de 24 até 31 de Julho
-Pre-mentoring talk: data tentativa 31 de Julho
-Janela inscrição: de 01 a 8 de agosto
- de 09 a 11 de Agosto
-Resultado das inscrições dia 12 de Agosto
-Data de inicio(Pre-mentoria):  de 14 a 18 de Agosto
-Data de submissão dos blogs: de 04 a 08 de setembro
-Data de encerramento: dia 09 de setembro
-Precisamos ter a timeline pronta amanha
-
 | actividade | data |
 | --- | --- |   
 | Submissão dos projectos | 25 à 31 de Julho |
