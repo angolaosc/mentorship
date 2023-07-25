@@ -35,9 +35,9 @@ Para participar do programa, você deve atender aos seguintes requisitos:
 #### Inscrição
 
 Para se inscrever no programa, você deve:
-- Selecione seu projecto de interesse.
-- Preencha o formulário de inscrição.
-- Anexe sua [proposta de contribuição](resources/PROPOSAL_EXAMPLE.md) e/ou carta de apresentação ao formulário de inscrição.
+- Selecionar seu projecto de interesse.
+- Preencher o formulário de inscrição.
+- Anexar sua [proposta de contribuição](resources/PROPOSAL_EXAMPLE.md) e/ou carta de apresentação ao formulário de inscrição.
 
 A AOSC Mentorship não tem nenhuma preferência por linguagem de programação, portanto, você pode escolher qualquer projeto de código aberto que desejar.
 
@@ -52,4 +52,4 @@ Por favor, note que não temos nenhum poder de seleção sobre os candidatos. Os
 
 ## Code of Conduct(CoC)
 
-Please note that AOSC Mentorship Program follows the [AOSC Code of Conduct](https://github.com/angolaosc/.github/blob/main CODE_OF_CONDUCT.md). By participating in this project, you agree to follow its terms.
+Please note that AOSC Mentorship Program follows the [AOSC Code of Conduct](https://github.com/angolaosc/.github/blob/main/CODE_OF_CONDUCT.md). By participating in this project, you agree to follow its terms.
