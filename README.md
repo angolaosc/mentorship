@@ -20,24 +20,35 @@ O `AOSC Mentorship` tem duração de um mês e é composto por três fases:
 
 ## Guias do Programa
 
-Consulte a guia geral do programa para obter mais informações, [AOSC Mentorship Program Guide](program/README.md).
+Consulte a guia geral do programa para obter mais informações, [AOSC Mentorship Program Guide](resources/AOSC_Mentorship_Program_Guide.pdf).
 
 ### Como participar
 
-#### Projectos
+Para participar do programa, você deve atender aos seguintes requisitos:
 
+- Ser angolano ou residente em Angola
+- Ter 17 anos ou mais
+- Ter conhecimento básico de programação
+- Interesse em contribuir para projetos de código aberto
+- Acesso a um computador com conexão à Internet
 
-#### Mentores
+#### Inscrição
 
+Para se inscrever no programa, você deve:
+- Selecionar seu projecto de interesse.
+- Preencher o formulário de inscrição.
+- Anexar sua [proposta de contribuição](resources/PROPOSAL_EXAMPLE.md) e/ou carta de apresentação ao formulário de inscrição.
 
-#### Participantes
-
-Brevemente
-
-#### Eligibilidade
-
+A AOSC Mentorship não tem nenhuma preferência por linguagem de programação, portanto, você pode escolher qualquer projeto de código aberto que desejar.
 
 ### Critérios e processo de seleção
+
+Os candidatos serão selecionados com base nos seguintes critérios:
+- Qualidade da [proposta de contribuição](resources/PROPOSAL_EXAMPLE.md)
+- Qualidade da carta de apresentação e motivação em fazer parte do programa
+- Disponibilidade para participar de todas as fases do programa
+
+Por favor, note que não temos nenhum poder de seleção sobre os candidatos. Os mentores e mantenedores do projeto serão responsáveis pela seleção dos candidatos.
 
 ## Code of Conduct(CoC)
 
