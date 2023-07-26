@@ -3,12 +3,12 @@ nome: Apresentação da ideia do projecto
 sobre o projecto: Use este modelo para enviar uma ideia de projeto para nosso programa de mentoria
 título: 'ideia do projeto: [nome do seu projeto] - [Prazo do Programa]'
 Rótulo: ideia de projeto
-assignees: ''
+destinatários: ''
 
 ---
 
 ####  Nome do Projecto
-##### Title
+##### título
 - Edição do Programa:
 - Descrição:
 - Resultados esperados:
