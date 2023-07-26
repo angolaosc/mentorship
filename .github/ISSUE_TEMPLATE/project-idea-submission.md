@@ -1,17 +1,17 @@
 ---
-name: Project idea submission
-about: Use this template to submit a project idea for our mentorship program
-title: 'Project Idea: [your project name] - [Program Term]'
-labels: project-idea
+nome: Apresentação da ideia do projecto
+sobre: Use este modelo para enviar uma ideia de projeto para nosso programa de mentoria
+title: 'ideia do projeto: [nome do seu projeto] - [Prazo do Programa]'
+labels: ideia de projeto
 assignees: ''
 
 ---
 
-####  Project Name
+####  Nome do Projecto
 ##### Title
-- Program Term:
-- Description:
-- Expected Outcome:
-- Recommended Skills:
-- Mentor(s):
-- Upstream Issue (URL):
+- Prazo do Programa:
+- Descrição:
+- Resultados esperados:
+- Habilidades Recomendadas:
+- Mentor(es):
+- Problema Relacionado (URL):
