@@ -1,22 +1,24 @@
-### Template
+### Modelo de Projecto
 
 ```
-#### Project Name
-##### Title or Task name 
+#### Nome do Projecto
+##### Título ou nome da tarefa
 
-- Description:
-- Expected Outcome:
-- Recommended Skills:
+- Descrição:
+- Resultado esperado:
+- Habilidades recomendadas:
 - Mentor(s):
-- Upstream Issue (URL):
+- Problema de Origem (URL):
+- Nível de dificuldade:
 ```
 
-### Example:
+### Exemplo:
 
-#### Train Booking App
-##### Migrate From ScopedModel to Bloc State Management
+#### Aplicativo de reserva de Comboio
+##### Migrar de ScopedModel para Gerenciamento de estado com Bloc
 
-- Description: Currently the app is using the deprecated ScopedModel to manage the state, it would be nice to use Bloc state managment any other.
-- Recommended Skills: Dart, Flutter
+- Descrição: Atualmente, o aplicativo está usando o obsoleto ScopedModel para gerenciar o estado, seria bom usar o gerenciamento de estado Bloc, ou qualquer outro.
+- Habilidades recomendadas: Dart, Flutter
 - Mentor(s): Antonio Pedro (@antonio-pedro99)
-- Issue: https://github.com/antonio-pedro99/irctc-app/issues/5
+- Problema de Origem: https://github.com/antonio-pedro99/irctc-app/issues/5
+- Nível de dificuldade: Médio
