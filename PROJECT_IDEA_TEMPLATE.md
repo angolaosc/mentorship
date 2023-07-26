@@ -15,9 +15,9 @@
 ### Exemplo:
 
 #### Aplicativo de reserva de trem
-##### Migrar do modelo com escopo para o gerenciamento de estado do bloco
+##### Migrar de ScoppedModel para o Bloc gerenciamento de estado
 
-- Descrição: Atualmente, o aplicativo está usando o obsoleto ScopedModel para gerenciar o estado, seria bom usar o gerenciamento de estado Bloc qualquer outro.
+- Descrição: Atualmente, o aplicativo está usando o obsoleto ScopedModel para gerenciar o estado, seria bom usar o gerenciamento de estado Bloc, ou qualquer outro.
 - Habilidades recomendadas: Dart, Flutter
 - Mentor(s): Antonio Pedro (@antonio-pedro99)
 - Problema de Origem: https://github.com/antonio-pedro99/irctc-app/issues/5
