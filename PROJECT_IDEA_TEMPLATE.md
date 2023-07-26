@@ -14,8 +14,8 @@
 
 ### Exemplo:
 
-#### Aplicativo de reserva de trem
-##### Migrar de ScoppedModel para o Bloc gerenciamento de estado
+#### Aplicativo de reserva de Comboio
+##### Migrar de ScopedModel para Gerenciamento de estado com Bloc
 
 - Descrição: Atualmente, o aplicativo está usando o obsoleto ScopedModel para gerenciar o estado, seria bom usar o gerenciamento de estado Bloc, ou qualquer outro.
 - Habilidades recomendadas: Dart, Flutter
