@@ -22,13 +22,13 @@ O programa terá duração de 1 mês.
 
 ### Instruções de submissão de projectos
 
-Mantenedores de projectos e potenciais mentores são convidados a submeter descrição de seus projectos através da submissão de um PR no GitHub aqui [AOSC Mentorship Program]() até 31 de Julho de 2023. Encontre o modelo de submissão [aqui](https://github.com/angolaosc/mentorship/PROJECT_IDEA_TEMPLATE.md).
+Mantenedores de projectos e potenciais mentores são convidados a submeter descrição de seus projectos através da submissão de um PR no GitHub aqui [AOSC Mentorship Program]() até 31 de Julho de 2023. Encontre o modelo de submissão [aqui](https://github.com/angolaosc/mentorship/blob/mentorship-1.0-info/PROJECT_IDEA_TEMPLATE.md).
 
 Porfavor, encorajamos os mantenedores de projectos a submeterem seus projectos o mais cedo possível para que os participantes tenham tempo suficiente para se familiarizarem com os projectos e fazerem suas escolhas.
 
 ### Instruções de inscrição para participantes
 
-Os participantes são convidados a se inscreverem através do formulário de inscrição [AOSC Mentorship Program]() até 08 de Agosto de 2023. Para mais informações sobre o processo de inscrição, consulte o [AOSC Mentorship Program Guide](https://github.com/angolaosc/mentorship/resources/AOSC_20_Mentorship_Program_Guide.pdf).
+Os participantes são convidados a se inscreverem através do formulário de inscrição [AOSC Mentorship Program]() até 08 de Agosto de 2023. Para mais informações sobre o processo de inscrição, consulte o [AOSC Mentorship Program Guide](https://github.com/angolaosc/mentorship/blob/main/resources/AOSC_20_Mentorship_Program_Guide.pdf).
 
 ### Projectos participantes na primeira edição
 
