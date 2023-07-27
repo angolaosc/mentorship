@@ -1,3 +1,5 @@
+[![AOSC](https://raw.githubusercontent.com/angolaosc/.github/main/logo/aosc.png)](https://github.com/angolaosc)
+
 # Angola Open-source Community(AOSC) Mentorship Program
 
 O `AOSC Mentorship` program visa fornecer apoio e orientação individualizados aos desenvolvedores angolanos que pretendem começar a contribuir em projetos open-source.
