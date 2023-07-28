@@ -30,11 +30,23 @@ Porfavor, encorajamos os mantenedores de projectos a submeterem seus projectos o
 
 Os participantes são convidados a se inscreverem através do formulário de inscrição [AOSC Mentorship Program]() até 08 de Agosto de 2023. Para mais informações sobre o processo de inscrição, consulte o [AOSC Mentorship Program Guide](https://github.com/angolaosc/mentorship/blob/main/resources/AOSC_20_Mentorship_Program_Guide.pdf).
 
+---
+
 ### Projectos participantes na primeira edição
 
 Encontre a lista de projectos participantes na primeira edição abaixo. Os participantes são encorajados a se familiarizarem com os projectos e fazerem suas escolhas antes do início do programa.
 
-TBA
+#### AOSC - Introdução ao Open-source
+##### Tradução de inglês para português, um curso introdutório ao desenvolvimento open-source
+
+- Descrição: O [open-sauced-intro](https://github.com/open-sauced/intro) é um curso introdutório ao desenvolvimento open-source e guia para fazer a primeira contribuição.
+O curso foi elaborado pela [OpenSauced](github.com/open-sauced) e está completamente em Inglês. Precisamos criar uma cópia não oficial deste curso em Português.
+Mais informações sobre o projecto aqui: https://github.com/open-sauced/intro/issues/16
+- Resultado esperado: Traduzir pelo menos 15% do curso.
+- Habilidades recomendadas: Inglês intermediário, HTML, CSS, e Javascript
+- Mentor(s): A ser mencionado
+- Problema de Origem (URL): https://github.com/angolaosc/intro-em-portugues/issues/1
+- Nível de dificuldade: Fácil
 
 ### Comunicação
 
