@@ -40,7 +40,7 @@ Encontre a lista de projectos participantes na primeira edição abaixo. Os part
 ##### Tradução de inglês para português, um curso introdutório ao desenvolvimento open-source
 
 - Descrição: O [open-sauced-intro](https://github.com/open-sauced/intro) é um curso introdutório ao desenvolvimento open-source e guia para fazer a primeira contribuição.
-O curso foi elaborado pela [OpenSauced](github.com/open-sauced) e está completamente em Inglês. Precisamos criar uma cópia não oficial deste curso em Portugês.
+O curso foi elaborado pela [OpenSauced](github.com/open-sauced) e está completamente em Inglês. Precisamos criar uma cópia não oficial deste curso em Português.
 Mais informações sobre o projecto aqui: https://github.com/open-sauced/intro/issues/16
 - Resultado esperado: Traduzir pelo menos 15% do curso.
 - Habilidades recomendadas: Inglês intermediário, HTML, CSS, e Javascript
