@@ -48,6 +48,20 @@ Mais informações sobre o projecto aqui: https://github.com/open-sauced/intro/i
 - Problema de Origem (URL): https://github.com/angolaosc/intro-em-portugues/issues/1
 - Nível de dificuldade: Fácil
 
+#### Risk Place Angola - É uma plataforma (open-source) para mapear (ou reportar) locais de riscos.
+##### Remover Websocket Client do controller de criação de alertas e adicionar metodo write do websocket server para enviar alertas para o cliente.
+
+- Descrição: O [RiskPlace](https://github.com/risk-place-angola/risk-place-angola) é uma plataforma (open-source) para mapear (ou reportar) locais de riscos, Risk Place Angola visa facilitar a chamada de emergência e reportar locais de risco.
+O Risk Place Angola possui uma funcionalidade de comunicação em tempo real, que permite que os usuários recebam alertas em tempo real, mas o websocket client está no controller de criação de alertas, o que não é uma boa prática, o ideal seria remover o websocket client do controller de criação de alertas e adicionar metodo write do websocket server para enviar alertas para o cliente.
+Mais informações sobre o projecto aqui: https://github.com/risk-place-angola/backend-risk-place/issues/84
+- Resultado esperado: Criar alertas em tempo real sem o websocket client no controller de criação de alertas.
+- Habilidades recomendadas: Golang
+- Mentor(s): Pedro Lopes Estevão
+- Problema de Origem (URL): https://github.com/risk-place-angola/backend-risk-place/issues/85
+- Nível de dificuldade: Médio
+- Repositório: https://github.com/risk-place-angola/backend-risk-place
+- Documentação swagger: https://risk-place-angola.onrender.com/swagger//index.html#/
+
 ### Comunicação
 
 Encorajamos os participantes a se juntarem aos nossos canais de comunicação para se conectarem com outros participantes e mentores. O link para o canal será compartilhado com os participantes selecionados.
