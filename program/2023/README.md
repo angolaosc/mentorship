@@ -59,8 +59,6 @@ Mais informações sobre o projecto aqui: https://github.com/risk-place-angola/b
 - Mentor(s): Pedro Lopes Estevão
 - Problema de Origem (URL): https://github.com/risk-place-angola/backend-risk-place/issues/85
 - Nível de dificuldade: Médio
-- Repositório: https://github.com/risk-place-angola/backend-risk-place
-- Documentação swagger: https://risk-place-angola.onrender.com/swagger//index.html#/
 
 ### Comunicação
 
