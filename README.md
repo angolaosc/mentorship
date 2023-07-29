@@ -1,3 +1,5 @@
+[![AOSC](https://raw.githubusercontent.com/angolaosc/.github/main/logo/aosc.png)](https://github.com/angolaosc)
+
 # Angola Open-source Community(AOSC) Mentorship Program
 
 O `AOSC Mentorship` program visa fornecer apoio e orientação individualizados aos desenvolvedores angolanos que pretendem começar a contribuir em projetos open-source.
@@ -20,7 +22,7 @@ O `AOSC Mentorship` tem duração de um mês e é composto por três fases:
 
 ## Guias do Programa
 
-Consulte a guia geral do programa para obter mais informações, [AOSC Mentorship Program Guide](resources/AOSC_Mentorship_Program_Guide.pdf).
+Consulte a guia geral do programa para obter mais informações,[AOSC Mentorship Program Guide](https://github.com/angolaosc/mentorship/blob/main/resources/AOSC_Mentorship_Program_Guide.pdf).
 
 ### Como participar
 

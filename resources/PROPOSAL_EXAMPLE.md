@@ -17,6 +17,7 @@
 
 ## Cronograma
 Exemplo de cronograma:
+
 | **Período**                 | **Atividade**                       |
 |---------------------------|----------------------------------|
 | 17 de Maio - 7 de Junho   | **Familiarização**                       |
