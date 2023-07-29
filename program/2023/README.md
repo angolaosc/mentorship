@@ -60,6 +60,19 @@ Mais informações sobre o projecto aqui: https://github.com/risk-place-angola/b
 - Problema de Origem (URL): https://github.com/risk-place-angola/backend-risk-place/issues/85
 - Nível de dificuldade: Médio
 
+#### Client Code Generators - É uma Biblioteca (open-source) para Converte pedidos HTTP em diferentes linguagens à sua escolha, gerando código de pedido HTTP para o mesmo linguagenm.
+##### Adicionar variante Dio na linguagem Dart - raw data body
+- Descrição: O [Client Code Generators](https://github.com/Paulo-Lopes-Estevao/client-code-generators) é uma Biblioteca (open-source) para Converte pedidos HTTP em diferentes linguagens à sua escolha, gerando código de pedido HTTP para o mesmo linguagenm.
+É um pacote escrito em dart baseado no pacote [Postman Code Generators](https://github.com/postmanlabs/postman-code-generators) do Postman.
+O pacote possui 1 variante em dart, que é o http, mas precisamos adicionar mais uma variante, que é o dio.
+A variante Dio deve dar suporte a raw data body e headers.
+Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao/client-code-generators/issues/4
+- Resultado esperado: gerar código de pedido HTTP para a linguagem Dart com a variante Dio, que deve dar suporte a raw data body, headers e o método de pedido HTTP POST.
+- Habilidades recomendadas: Dart, HTTP, Inglês básico.
+- Mentor(s): Paulo Lopes Estevão
+- Problema de Origem (URL): https://github.com/Paulo-Lopes-Estevao/client-code-generators/issues/5
+- Nível de dificuldade: Médio
+
 ### Comunicação
 
 Encorajamos os participantes a se juntarem aos nossos canais de comunicação para se conectarem com outros participantes e mentores. O link para o canal será compartilhado com os participantes selecionados.
