@@ -56,7 +56,7 @@ O Risk Place Angola possui uma funcionalidade de comunicação em tempo real, qu
 Mais informações sobre o projecto aqui: https://github.com/risk-place-angola/backend-risk-place/issues/84
 - Resultado esperado: Criar alertas em tempo real sem o websocket client no controller de criação de alertas.
 - Habilidades recomendadas: Golang
-- Mentor(s): Paulo Lopes Estevão(@Paulo-Lopes-Estevao)
+- Mentor(s): Pedro Lopes Estevão(@Paulo-Lopes-Estevao)
 - Problema de Origem (URL): https://github.com/risk-place-angola/backend-risk-place/issues/85
 - Nível de dificuldade: Médio
 
