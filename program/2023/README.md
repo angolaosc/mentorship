@@ -93,7 +93,6 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 - Nível de dificuldade: Fácil
 
 #### Omunga - Plataforma Angolana de Artigos de TI
-
  ##### Refatoração geral do projeto
 
 - Descrição: O [Omunga](https://github.com/OMUNGA) é uma plataforma Angolana de Artigos de TI, a versão atual do projeto esta com uma arquitetura não muito aconselhavel, e código não muito legivel.
