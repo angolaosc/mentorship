@@ -28,11 +28,11 @@ Consulte a guia geral do programa para obter mais informações,[AOSC Mentorship
 
 Para participar do programa, você deve atender aos seguintes requisitos:
 
-- Ser angolano ou residente em Angola
-- Ter 17 anos ou mais
-- Ter conhecimento básico de programação
-- Interesse em contribuir para projetos de código aberto
-- Acesso a um computador com conexão à Internet
+- Ser angolano ou residente em Angola;
+- Ter 17 anos ou mais;
+- Ter conhecimento básico de programação;
+- Interesse em contribuir para projetos de código aberto;
+- Acesso a um computador com conexão à Internet. 
 
 #### Inscrição
 
