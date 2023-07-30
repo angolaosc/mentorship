@@ -92,6 +92,16 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 - Problema de Origem (URL): https://www.cassino.org/escola/como-jogar-craps, https://www.cassino.org/escola/como-jogar-roleta, https://www.cassino.org/escola/como-jogar-blackjack
 - Nível de dificuldade: Fácil
 
+#### RedTeam - Desenvolvimento de softwares focados em segurança ofensiva
+##### Um projeto para aprender a desenvolver softwares de segurança ofensiva usados em testes de segurança e operações de equipe vermelha (RedTeam)
+
+- Descrição: Você gosta de cibersegurança e quer aprender a desenvolver ferramentas reais usadas no mundo real? Você vai criar ferramentas de RedTeam, que em cibersegurança é o nome dado a uma equipe de especialistas de segurança que simulam o comprometimento de uma empresa de ponta a ponta, simulando o mais real possível de um ataque real [com 100 Projetos diferentes usados em situações reais no mundo](https://github.com/kurogai/100-redteam-projects).
+- Resultado esperado: Conhecer e desenvolver softwares de segurança ofensiva
+- Habilidades recomendadas: Programação, conhecimento básico de redes
+- Mentor(s): Héber Júlio (@kurogai)
+- Problema de Origem (URL): https://www.picussecurity.com/resource/glossary/what-is-red-team, https://www.comptia.org/blog/get-into-cybersecurity-your-developer-experience-can-get-you-a-cybersecurity-job
+- Nível de dificuldade: Médio
+
 ### Comunicação
 
 Encorajamos os participantes a se juntarem aos nossos canais de comunicação para se conectarem com outros participantes e mentores. O link para o canal será compartilhado com os participantes selecionados.
