@@ -96,7 +96,7 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 
  ##### Refatoração geral do projeto
 
-- Descrição: O [Omunga](https://github.com/OMUNGA) ] é uma plataforma Angolana de Artigos de TI, a versão atual do projeto esta com uma arquitetura não muito aconselhavel, e código não muito legivel.
+- Descrição: O [Omunga](https://github.com/OMUNGA) é uma plataforma Angolana de Artigos de TI, a versão atual do projeto esta com uma arquitetura não muito aconselhavel, e código não muito legivel.
 
  - Resultado esperado:
    - Revisar o código existente em busca de melhorias, remoção de redundâncias e simplificação do código.
