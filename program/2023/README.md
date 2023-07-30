@@ -82,6 +82,16 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 - Mentor(s): Kayenga Campos(@Kissabi)
 - Nível de dificuldade: Fácil.
 
+#### Jogos de Cassino em Delégua - Implementando Jogos em Console usando Linguagem 100% em Português
+##### Um projeto para aprender programação do zero
+
+- Descrição: Gostaria de aprender a programar do zero e não sabes por onde começar? Podes experimentar [Delégua, uma linguagem de programação 100% em português](https://github.com/DesignLiquido/delegua), que implementa todos os recursos de linguagens de mercado, como orientação a objetos, paradigmas imperativo e funcional. Neste projecto, irás aprender como implementar jogos de cassino como Roleta, Craps e Blackjack.
+- Resultado esperado: Um conjunto de jogos que executam em qualquer sistema operacional e qualquer dispositivo.
+- Habilidades recomendadas: Ler, escrever e falar português.
+- Mentor(s): Leonel Sanches da Silva (@leonelsanchesdasilva)
+- Problema de Origem (URL): https://www.cassino.org/escola/como-jogar-craps, https://www.cassino.org/escola/como-jogar-roleta, https://www.cassino.org/escola/como-jogar-blackjack
+- Nível de dificuldade: Fácil
+
 ### Comunicação
 
 Encorajamos os participantes a se juntarem aos nossos canais de comunicação para se conectarem com outros participantes e mentores. O link para o canal será compartilhado com os participantes selecionados.
