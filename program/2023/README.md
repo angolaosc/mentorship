@@ -92,57 +92,18 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 - Problema de Origem (URL): https://www.cassino.org/escola/como-jogar-craps, https://www.cassino.org/escola/como-jogar-roleta, https://www.cassino.org/escola/como-jogar-blackjack
 - Nível de dificuldade: Fácil
 
-#### Omunga - Plataforma Angolana de Artigos de TI Plataforma Angolana de TI: Compartilhe, aprenda e cresça! Publique artigos, comente, curta e participe de discussões sobre tecnologia. Junte-se à nossa comunidade de profissionais de TI em Angola e impulsione o conhecimento na área.
-
-##### Atualização do Next.js
-Descrição:
-  - Verificar e atualizar a versão atual do Next.js para a mais recente disponível.
-  - Realizar testes para garantir que todas as funcionalidades ainda estejam funcionando corretamente após a atualização.
+#### Omunga - Plataforma Angolana de Artigos de TI
 
  ##### Refatoração geral do projeto
- Descrição:
+
+- Descrição: O [Omunga](https://github.com/OMUNGA) Plataforma Angolana de Artigos de TI, a versão atual do projeto esta com uma arquitetura não muito aconselhavel, e código não muito legivel.
+
+ - Resultado esperado:
    - Revisar o código existente em busca de melhorias, remoção de redundâncias e simplificação do código.
    - Adotar boas práticas de programação e padrões de design para aumentar a qualidade e a manutenibilidade do código.
-
-##### Implementar paginação
-Descrição:
-   - Permitir a exibição de um número limitado de artigos por página.
-   - Criar os controles de navegação para o usuário acessar páginas adicionais de artigos.
-
-##### Criar artigos
-Descrição:
-   - Implementar feature para que os usuários possam criar novos artigos.
-   - Validar os dados do artigo inserido para garantir a consistência dos dados armazenados.
-
-##### listar artigos
-   - Exibir a lista de artigos disponíveis na aplicação.
-   - Organizar os artigos por data, título ou outras categorias relevantes.
-
-##### Deletar artigos:
-Descrição:
-   - Implementar uma funcionalidade que permita aos usuários excluir artigos existentes.
-   - Incluir uma confirmação para evitar exclusões acidentais.
-
-##### Atualizar artigos:
-Descrição:
-   - adicionar feature para que os usuários possam editar e atualizar informações de artigos já existentes.
-
-##### Buscar por artigos:
-Descrição:
-   - Implementar uma feature de pesquisa que permita aos usuários buscar artigos com base em palavras-chave ou categorias específicas.
-
-##### Página dos Artigos Responsiva:
-Descrição:
-   - Tornar a página de exibição dos artigos responsiva para melhor adaptação em diferentes dispositivos (desktop, tablet, smartphones).
-
-
-- Descrição: O [Omunga](https://github.com/OMUNGA) Plataforma Angolana de Artigos de TI
-Este é um projeto criado com o principal objetivo de incentivar o compartilhamento de conteúdo por profissionais de TI em Angola. Essencialmente, este aplicativo permite que os usuários publiquem artigos sobre TI, além de comentar, curtir, pesquisar e até mesmo iniciar uma discussão em fórum.
-
-- Resultado esperado: Usuário poderá acessar a plataforma em qualquer dispositivo e postar seus artigos.
-- Habilidades recomendadas: Javascript | Nextjs | Nestjs
+- Habilidades recomendadas: Javascript | Nextjs | Clean code
 - Mentor(s): Miguel Buca (@miguelbuca)
-- Problema de Origem (URL): https://github.com/OMUNGA/Front-end/issues
+- Problema de Origem (URL): https://github.com/OMUNGA/Front-end/issues/44
 - Nível de dificuldade: Médio
 
 ### Comunicação
