@@ -44,7 +44,7 @@ O curso foi elaborado pela [OpenSauced](github.com/open-sauced) e está completa
 Mais informações sobre o projecto aqui: https://github.com/open-sauced/intro/issues/16
 - Resultado esperado: Traduzir pelo menos 15% do curso.
 - Habilidades recomendadas: Inglês intermediário, HTML, CSS, e Javascript
-- Mentor(s): A ser mencionado
+- Mentor(s): Nurul Carvalho(@Nurul-GC)
 - Problema de Origem (URL): https://github.com/angolaosc/intro-em-portugues/issues/1
 - Nível de dificuldade: Fácil
 
@@ -56,7 +56,7 @@ O Risk Place Angola possui uma funcionalidade de comunicação em tempo real, qu
 Mais informações sobre o projecto aqui: https://github.com/risk-place-angola/backend-risk-place/issues/84
 - Resultado esperado: Criar alertas em tempo real sem o websocket client no controller de criação de alertas.
 - Habilidades recomendadas: Golang
-- Mentor(s): Pedro Lopes Estevão
+- Mentor(s): Pedro Lopes Estevão(@Paulo-Lopes-Estevao)
 - Problema de Origem (URL): https://github.com/risk-place-angola/backend-risk-place/issues/85
 - Nível de dificuldade: Médio
 
@@ -69,12 +69,12 @@ A variante Dio deve dar suporte a raw data body e headers.
 Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao/client-code-generators/issues/4
 - Resultado esperado: gerar código de pedido HTTP para a linguagem Dart com a variante Dio, que deve dar suporte a raw data body, headers e o método de pedido HTTP POST.
 - Habilidades recomendadas: Dart, HTTP, Inglês básico.
-- Mentor(s): Paulo Lopes Estevão
+- Mentor(s): Paulo Lopes Estevão(@Paulo-Lopes-Estevao)
 - Problema de Origem (URL): https://github.com/Paulo-Lopes-Estevao/client-code-generators/issues/5
 - Nível de dificuldade: Médio
 
-### Predictlow - Uma pequena biblioteca para fazer previsão em grandes conjuntos de dados sem sofrer o problema de out-of-memory.
-#### Um projecto ponta-a-ponta para resolver o problema de out-of-memory nos principais algoritmos de aprendizagem de máquina.
+#### Predictlow - Uma pequena biblioteca para fazer previsão em grandes conjuntos de dados sem sofrer o problema de out-of-memory.
+##### Um projecto ponta-a-ponta para resolver o problema de out-of-memory nos principais algoritmos de aprendizagem de máquina.
 - Descrição: O fenômeno "out of memory" ocorre quando um modelo de aprendizagem de máquina esgota a memória disponível durante o treinamento. Isso geralmente acontece quando o conjunto de dados é muito grande ou quando o modelo é muito complexo para a capacidade de memória do sistema. Este é um problema comum em quase todos os algoritmos de aprendizagem de máquina, para superar esse problema, pode-se reduzir o tamanho do conjunto de dados, mas isso só na fase de treinamento, o problema ainda pode persistir na fase de previsão, e aqui entra o predictlow, para permitir fazer previsão de grandes conjunto de dados sem ocorrer o problema de out-of-memory. 
 - Resultado esperado:  Módulo python (Predictlow) e disponibilizá-lo para instalação via [PIP] (https://pypi.org/project/pip/) para a comunidade opensource consumir com facilidade.
 - Problema de Origem (Referência Bibliográfica): https://en.m.wikipedia.org/wiki/Out_of_memory
