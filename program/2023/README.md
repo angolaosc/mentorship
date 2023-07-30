@@ -8,7 +8,7 @@ O programa terá duração de 1 mês.
 ### Timeline
 
 | actividade | data |
-| --- | --- |
+| --- | --- |   
 | Submissão dos projectos | 25 à 31 de Julho |
 | Pre-mentoring Talk | 31 de Julho(Tentativa) |
 | Inscrições de participantes | 01 à 08 de Agosto |
@@ -75,7 +75,7 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 
 #### Predictlow - Uma pequena biblioteca para fazer previsão em grandes conjuntos de dados sem sofrer o problema de out-of-memory.
 ##### Um projecto ponta-a-ponta para resolver o problema de out-of-memory nos principais algoritmos de aprendizagem de máquina.
-- Descrição: O fenômeno "out of memory" ocorre quando um modelo de aprendizagem de máquina esgota a memória disponível durante o treinamento. Isso geralmente acontece quando o conjunto de dados é muito grande ou quando o modelo é muito complexo para a capacidade de memória do sistema. Este é um problema comum em quase todos os algoritmos de aprendizagem de máquina, para superar esse problema, pode-se reduzir o tamanho do conjunto de dados, mas isso só na fase de treinamento, o problema ainda pode persistir na fase de previsão, e aqui entra o predictlow, para permitir fazer previsão de grandes conjunto de dados sem ocorrer o problema de out-of-memory.
+- Descrição: O fenômeno "out of memory" ocorre quando um modelo de aprendizagem de máquina esgota a memória disponível durante o treinamento. Isso geralmente acontece quando o conjunto de dados é muito grande ou quando o modelo é muito complexo para a capacidade de memória do sistema. Este é um problema comum em quase todos os algoritmos de aprendizagem de máquina, para superar esse problema, pode-se reduzir o tamanho do conjunto de dados, mas isso só na fase de treinamento, o problema ainda pode persistir na fase de previsão, e aqui entra o predictlow, para permitir fazer previsão de grandes conjunto de dados sem ocorrer o problema de out-of-memory. 
 - Resultado esperado:  Módulo python (Predictlow) e disponibilizá-lo para instalação via [PIP] (https://pypi.org/project/pip/) para a comunidade opensource consumir com facilidade.
 - Problema de Origem (Referência Bibliográfica): https://en.m.wikipedia.org/wiki/Out_of_memory
 - Habilidades recomendadas: É desejável python e básico de álgebra linear. Noções de aprendizagem de máquina é um diferencial.
@@ -91,51 +91,6 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 - Mentor(s): Leonel Sanches da Silva (@leonelsanchesdasilva)
 - Problema de Origem (URL): https://www.cassino.org/escola/como-jogar-craps, https://www.cassino.org/escola/como-jogar-roleta, https://www.cassino.org/escola/como-jogar-blackjack
 - Nível de dificuldade: Fácil
-
-#### Omunga - Plataforma Angolana de Artigos de TI Plataforma Angolana de TI: Compartilhe, aprenda e cresça! Publique artigos, comente, curta e participe de discussões sobre tecnologia. Junte-se à nossa comunidade de profissionais de TI em Angola e impulsione o conhecimento na área.
-
-#####
-1. **Atualização do Next.js:**
-   - Verificar e atualizar a versão atual do Next.js para a mais recente disponível.
-   - Realizar testes para garantir que todas as funcionalidades ainda estejam funcionando corretamente após a atualização.
-
-2. **Refatoração geral do projeto:**
-   - Revisar o código existente em busca de melhorias, remoção de redundâncias e simplificação do código.
-   - Adotar boas práticas de programação e padrões de design para aumentar a qualidade e a manutenibilidade do código.
-
-3. **Implementar paginação:**
-   - Permitir a exibição de um número limitado de artigos por página.
-   - Criar os controles de navegação para o usuário acessar páginas adicionais de artigos.
-
-4. **Criar artigos:**
-   - Implementar feature para que os usuários possam criar novos artigos.
-   - Validar os dados do artigo inserido para garantir a consistência dos dados armazenados.
-
-5. **Listar artigos:**
-   - Exibir a lista de artigos disponíveis na aplicação.
-   - Organizar os artigos por data, título ou outras categorias relevantes.
-
-6. **Deletar artigos:**
-   - Implementar uma funcionalidade que permita aos usuários excluir artigos existentes.
-   - Incluir uma confirmação para evitar exclusões acidentais.
-
-7. **Atualizar artigos:**
-   - adicionar feature para que os usuários possam editar e atualizar informações de artigos já existentes.
-
-8. **Buscar por artigos:**
-   - Implementar uma feature de pesquisa que permita aos usuários buscar artigos com base em palavras-chave ou categorias específicas.
-
-9. **Página dos Artigos Responsiva:**
-   - Tornar a página de exibição dos artigos responsiva para melhor adaptação em diferentes dispositivos (desktop, tablet, smartphones).
-
-- Descrição: O [Omunga](https://github.com/OMUNGA) Plataforma Angolana de Artigos de TI
-Este é um projeto criado com o principal objetivo de incentivar o compartilhamento de conteúdo por profissionais de TI em Angola. Essencialmente, este aplicativo permite que os usuários publiquem artigos sobre TI, além de comentar, curtir, pesquisar e até mesmo iniciar uma discussão em fórum.
-
-- Resultado esperado: Refatorar o projecto para nova versão do Nextjs e integrar a api Rest full.
-- Habilidades recomendadas: Javascript | Nextjs | Nestjs
-- Mentor(s): Miguel Buca (@miguelbuca)
-- Problema de Origem (URL): https://github.com/OMUNGA/Front-end/issues
-- Nível de dificuldade: Médio
 
 ### Comunicação
 
