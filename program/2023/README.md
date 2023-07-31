@@ -8,13 +8,13 @@ O programa terá duração de 1 mês.
 ### Timeline
 
 | actividade | data |
-| --- | --- |   
-| Submissão dos projectos | 25 à 31 de Julho |
+| --- | --- |
+| Submissão dos projectos | 25 à 04 de Agosto |
 | Pre-mentoring Talk | 31 de Julho(Tentativa) |
-| Inscrições de participantes | 01 à 08 de Agosto |
-| Avaliações das inscrições | 09 à 11 de Agosto |
-| Anúncio de mentorados seleccionados | 11 de Agosto de 2023 |
-| Pre-mentoria workshop | 14 à 18 de Agosto |
+| Inscrições de participantes | 05 à 11 de Agosto |
+| Avaliações das inscrições | 11 à 13 de Agosto |
+| Anúncio de mentorados seleccionados | 14 de Agosto de 2023 |
+| Pre-mentoria workshop | 15 à 18 de Agosto |
 | Fase da mentoria | 21 de Agosto |
 | Submissão dos blogs | 04 à 08 de Setembro |
 | Fim do programa | 09 de Setembro |
@@ -75,7 +75,7 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 
 #### Predictlow - Uma pequena biblioteca para fazer previsão em grandes conjuntos de dados sem sofrer o problema de out-of-memory.
 ##### Um projecto ponta-a-ponta para resolver o problema de out-of-memory nos principais algoritmos de aprendizagem de máquina.
-- Descrição: O fenômeno "out of memory" ocorre quando um modelo de aprendizagem de máquina esgota a memória disponível durante o treinamento. Isso geralmente acontece quando o conjunto de dados é muito grande ou quando o modelo é muito complexo para a capacidade de memória do sistema. Este é um problema comum em quase todos os algoritmos de aprendizagem de máquina, para superar esse problema, pode-se reduzir o tamanho do conjunto de dados, mas isso só na fase de treinamento, o problema ainda pode persistir na fase de previsão, e aqui entra o predictlow, para permitir fazer previsão de grandes conjunto de dados sem ocorrer o problema de out-of-memory. 
+- Descrição: O fenômeno "out of memory" ocorre quando um modelo de aprendizagem de máquina esgota a memória disponível durante o treinamento. Isso geralmente acontece quando o conjunto de dados é muito grande ou quando o modelo é muito complexo para a capacidade de memória do sistema. Este é um problema comum em quase todos os algoritmos de aprendizagem de máquina, para superar esse problema, pode-se reduzir o tamanho do conjunto de dados, mas isso só na fase de treinamento, o problema ainda pode persistir na fase de previsão, e aqui entra o predictlow, para permitir fazer previsão de grandes conjunto de dados sem ocorrer o problema de out-of-memory.
 - Resultado esperado:  Módulo python (Predictlow) e disponibilizá-lo para instalação via [PIP] (https://pypi.org/project/pip/) para a comunidade opensource consumir com facilidade.
 - Problema de Origem (Referência Bibliográfica): https://en.m.wikipedia.org/wiki/Out_of_memory
 - Habilidades recomendadas: É desejável python e básico de álgebra linear. Noções de aprendizagem de máquina é um diferencial.
@@ -100,6 +100,18 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 - Habilidades recomendadas: Programação (requesições http, sockets), conhecimento básico de redes
 - Mentor(s): Héber Júlio (@kurogai)
 - Problema de Origem (URL): https://github.com/kurogai/100-redteam-projects-aosc
+- Nível de dificuldade: Médio
+
+#### Omunga - Plataforma Angolana de Artigos de TI
+ ##### Refatoração geral do projeto
+
+- Descrição: O [Omunga](https://github.com/OMUNGA) é uma plataforma Angolana de Artigos de TI, a versão atual do projeto esta com uma arquitetura não muito aconselhavel, e código não muito legivel.
+ - Resultado esperado:
+   - Revisar o código existente em busca de melhorias, remoção de redundâncias e simplificação do código.
+   - Adotar boas práticas de programação e padrões de design para aumentar a qualidade e a manutenibilidade do código.
+- Habilidades recomendadas: Javascript | Nextjs | Clean code
+- Mentor(s): Miguel Buca (@miguelbuca)
+- Problema de Origem (URL): https://github.com/OMUNGA/Front-end/issues/44
 - Nível de dificuldade: Médio
 
 ### Comunicação
