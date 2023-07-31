@@ -97,7 +97,7 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 
 - Descrição: Você gosta de cibersegurança e quer aprender a desenvolver ferramentas reais usadas no mundo real? Você vai criar ferramentas de RedTeam, que em cibersegurança é o nome dado a uma equipe de especialistas de segurança que simulam o comprometimento de uma empresa de ponta a ponta, simulando o mais real possível de um ataque real [com 100 Projetos diferentes usados em situações reais no mundo](https://github.com/kurogai/100-redteam-projects). Você tem a liberdade de escolher qualquer item da lista durante esta aventura.
 - Resultado esperado: Conhecer e desenvolver ferramentas de segurança ofensiva usadas em ambientes reais
-- Habilidades recomendadas: Programação (requesições http, sockets), conhecimento básico de redes
+- Habilidades recomendadas: Qualquer linguagem de programação (que suporte o uso do http e sockets), conhecimento básico de redes
 - Mentor(s): Héber Júlio (@kurogai)
 - Problema de Origem (URL): https://github.com/kurogai/100-redteam-projects-aosc
 - Nível de dificuldade: Médio
