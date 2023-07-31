@@ -9,7 +9,7 @@ O programa terá duração de 1 mês.
 
 | actividade | data |
 | --- | --- |
-| Submissão dos projectos | 25 à 04 de Julho |
+| Submissão dos projectos | 25 à 04 de Agosto |
 | Pre-mentoring Talk | 31 de Julho(Tentativa) |
 | Inscrições de participantes | 05 à 11 de Agosto |
 | Avaliações das inscrições | 11 à 13 de Agosto |
