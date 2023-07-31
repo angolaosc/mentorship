@@ -9,12 +9,12 @@ O programa terá duração de 1 mês.
 
 | actividade | data |
 | --- | --- |
-| Submissão dos projectos | 25 à 04 de Julho |
+| Submissão dos projectos | 25 à 31 de Julho |
 | Pre-mentoring Talk | 31 de Julho(Tentativa) |
-| Inscrições de participantes | 05 à 11 de Agosto |
-| Avaliações das inscrições | 11 à 13 de Agosto |
-| Anúncio de mentorados seleccionados | 14 de Agosto de 2023 |
-| Pre-mentoria workshop | 15 à 18 de Agosto |
+| Inscrições de participantes | 01 à 08 de Agosto |
+| Avaliações das inscrições | 09 à 11 de Agosto |
+| Anúncio de mentorados seleccionados | 11 de Agosto de 2023 |
+| Pre-mentoria workshop | 14 à 18 de Agosto |
 | Fase da mentoria | 21 de Agosto |
 | Submissão dos blogs | 04 à 08 de Setembro |
 | Fim do programa | 09 de Setembro |
@@ -96,6 +96,7 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
  ##### Refatoração geral do projeto
 
 - Descrição: O [Omunga](https://github.com/OMUNGA) é uma plataforma Angolana de Artigos de TI, a versão atual do projeto esta com uma arquitetura não muito aconselhavel, e código não muito legivel.
+
  - Resultado esperado:
    - Revisar o código existente em busca de melhorias, remoção de redundâncias e simplificação do código.
    - Adotar boas práticas de programação e padrões de design para aumentar a qualidade e a manutenibilidade do código.
