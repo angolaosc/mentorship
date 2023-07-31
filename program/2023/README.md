@@ -95,11 +95,11 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 #### RedTeam - Desenvolvimento de softwares focados em segurança ofensiva
 ##### Um projeto para aprender a desenvolver softwares de segurança ofensiva usados em testes de segurança e operações de equipe vermelha (RedTeam)
 
-- Descrição: Você gosta de cibersegurança e quer aprender a desenvolver ferramentas reais usadas no mundo real? Você vai criar ferramentas de RedTeam, que em cibersegurança é o nome dado a uma equipe de especialistas de segurança que simulam o comprometimento de uma empresa de ponta a ponta, simulando o mais real possível de um ataque real [com 100 Projetos diferentes usados em situações reais no mundo](https://github.com/kurogai/100-redteam-projects).
-- Resultado esperado: Conhecer e desenvolver softwares de segurança ofensiva
-- Habilidades recomendadas: Programação, conhecimento básico de redes
+- Descrição: Você gosta de cibersegurança e quer aprender a desenvolver ferramentas reais usadas no mundo real? Você vai criar ferramentas de RedTeam, que em cibersegurança é o nome dado a uma equipe de especialistas de segurança que simulam o comprometimento de uma empresa de ponta a ponta, simulando o mais real possível de um ataque real [com 100 Projetos diferentes usados em situações reais no mundo](https://github.com/kurogai/100-redteam-projects). Você tem a liberdade de escolher qualquer item da lista durante esta aventura.
+- Resultado esperado: Conhecer e desenvolver ferramentas de segurança ofensiva usadas em ambientes reais
+- Habilidades recomendadas: Programação (requesições http, sockets), conhecimento básico de redes
 - Mentor(s): Héber Júlio (@kurogai)
-- Problema de Origem (URL): https://www.picussecurity.com/resource/glossary/what-is-red-team, https://www.comptia.org/blog/get-into-cybersecurity-your-developer-experience-can-get-you-a-cybersecurity-job
+- Problema de Origem (URL): https://github.com/kurogai/100-redteam-projects-aosc
 - Nível de dificuldade: Médio
 
 ### Comunicação
