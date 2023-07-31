@@ -92,6 +92,16 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 - Problema de Origem (URL): https://www.cassino.org/escola/como-jogar-craps, https://www.cassino.org/escola/como-jogar-roleta, https://www.cassino.org/escola/como-jogar-blackjack
 - Nível de dificuldade: Fácil
 
+#### RedTeam - Desenvolvimento de softwares focados em segurança ofensiva
+##### Um projeto para aprender a desenvolver softwares de segurança ofensiva usados em testes de segurança e operações de equipe vermelha (RedTeam)
+
+- Descrição: Você gosta de cibersegurança e quer aprender a desenvolver ferramentas reais usadas no mundo real? Você vai criar ferramentas de RedTeam, que em cibersegurança é o nome dado a uma equipe de especialistas de segurança que simulam o comprometimento de uma empresa de ponta a ponta, simulando o mais real possível de um ataque real [com 100 Projetos diferentes usados em situações reais no mundo](https://github.com/kurogai/100-redteam-projects). Você tem a liberdade de escolher qualquer item da lista durante esta aventura.
+- Resultado esperado: Conhecer e desenvolver ferramentas de segurança ofensiva usadas em ambientes reais
+- Habilidades recomendadas: Qualquer linguagem de programação (que suporte o uso do http e sockets), conhecimento básico de redes
+- Mentor(s): Héber Júlio (@kurogai)
+- Problema de Origem (URL): https://github.com/kurogai/100-redteam-projects-aosc
+- Nível de dificuldade: Médio
+
 #### Omunga - Plataforma Angolana de Artigos de TI
  ##### Refatoração geral do projeto
 
