@@ -114,6 +114,25 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 - Problema de Origem (URL): https://github.com/OMUNGA/Front-end/issues/44
 - Nível de dificuldade: Médio
 
+#### ClientAO - API Client.
+##### API Client (Open Source) para criar APIs calls, alternativa ao POSTMAN & Insomnia feito em Flutter/Dart.
+
+- Descrição: [ClientAO](https://github.com/antonio-nicolau/ClientAO) é uma API Client (Open Source) para criar APIs calls, inspecionar visualmente as respostas. Com o ClientAO você pode:
+  - Organizar a tuas requests em Collections para ter todas elas organizadas:
+  - Crie diferentes tipos de requests HTTP (GET, POST, PATCH, PUT e DELETE)
+  - Criar WebSocket requests 
+  - Manipule facilmente parâmetros das requests, cabeçalhos, autenticação e corpo
+  - Inspecione a resposta da request (código de status, cabeçalhos, corpo, tempo gasto e tamanho do corpo da resposta)
+  - Visualize o response das tuas requests formatado para tipos como JSON, XML, HTML, etc...
+  - Para resultados de retorno como imagens (vídeo em breve), o ClientAO ajuda visualizando diretamente esses resultados
+  - Criar e gerenciar variáveis de ambiente
+
+- Habilidades recomendadas: Flutter, Dart, HTTP, Inglês.
+
+- Mentor: António Nicolau (@antonio-nicolau).
+
+- Nível de dificuldade: Médio ~ Avançado.
+
 ### Comunicação
 
 Encorajamos os participantes a se juntarem aos nossos canais de comunicação para se conectarem com outros participantes e mentores. O link para o canal será compartilhado com os participantes selecionados.
