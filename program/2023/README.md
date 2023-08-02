@@ -131,7 +131,7 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 
 - Mentor: António Nicolau (@antonio-nicolau).
 
-- Nível de dificuldade: Médio ~ Avançado.
+- Nível de dificuldade: Avançado.
 
 ### Comunicação
 
