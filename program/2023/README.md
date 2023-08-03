@@ -124,7 +124,7 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
    - Aplicar boas práticas e evitar duplicação de funções
    - Cadastrar hospitais
 - Habilidades recomendadas: PHP/Laravel, Angular
-- Mentor(s): José Cage
+- Mentor(s): José Cage([@JoseCage](https://github.com/JoseCage))
 - Problema de Origem (URL): https://github.com/givebloodorg/doesangue-core/issues/57
 - Nível de dificuldade: Médio
 
