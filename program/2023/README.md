@@ -126,11 +126,8 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
   - Visualize o response das tuas requests formatado para tipos como JSON, XML, HTML, etc...
   - Para resultados de retorno como imagens (vídeo em breve), o ClientAO ajuda visualizando diretamente esses resultados
   - Criar e gerenciar variáveis de ambiente
-
-- Habilidades recomendadas: Flutter, Dart, HTTP, Inglês.
-
+- Habilidades recomendadas: Flutter, Dart, HTTP, Inglês intermediate.
 - Mentor: António Nicolau (@antonio-nicolau).
-
 - Nível de dificuldade: Avançado.
 
 ### Comunicação
