@@ -114,6 +114,20 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 - Problema de Origem (URL): https://github.com/OMUNGA/Front-end/issues/44
 - Nível de dificuldade: Médio
 
+#### DoeSangue - Plataforma para conectar doadores de sangue ao Instituto Nacional de Sangue 
+##### Refactoração e upgrade
+
+- Descrição: Doesangue/Giveblood é uma plataforma (API as a Service) que visa servir de um ponto de ligação entre pessoas doadoras de sangue e instituições responsáveis por colheita de sangue (hospitais e Instituto Nacional de Sangue). 
+- Resultado esperado:
+   - Actualizar para versão mais recente do Laravel (v10 até a data)
+   - Refactorar as funcionalidades de cadastro de doadores para marcar como "em espera" para validação dos dados antes de marcar como doador válido
+   - Aplicar boas práticas e evitar duplicação de funções
+   - Cadastrar hospitais
+- Habilidades recomendadas: PHP/Laravel, Angular
+- Mentor(s): José Cage([@JoseCage](https://github.com/JoseCage))
+- Problema de Origem (URL): https://github.com/givebloodorg/doesangue-core/issues/57
+- Nível de dificuldade: Médio
+
 ### Comunicação
 
 Encorajamos os participantes a se juntarem aos nossos canais de comunicação para se conectarem com outros participantes e mentores. O link para o canal será compartilhado com os participantes selecionados.
