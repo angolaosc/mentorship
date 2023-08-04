@@ -126,6 +126,16 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 - Habilidades recomendadas: PHP/Laravel, Angular
 - Mentor(s): José Cage([@JoseCage](https://github.com/JoseCage))
 - Problema de Origem (URL): https://github.com/givebloodorg/doesangue-core/issues/57
+
+#### pREST - API REST para o Postgres
+ ##### Feature para escolha do modo JOIN
+
+- Descrição: O [pREST](https://github.com/prest/prest) é uma API REST criada para facilitar o desenvolvimento ágil. A versão atual obriga o desenvolvedor a usar o novo método de JOIN da API, mas isto apesar de melhorar o desempenho para a maioria quebrou alguns usuários, o que os impede de atualizar para versões mais novas.
+ - Resultado esperado:
+   - Através de uma nova configuração possibilitar que o usuário escolha seu método de JOIN na API.
+- Habilidades recomendadas: Golang | Postgres | Clean code | Docker
+- Mentor(s): Arthur Silva (@arxdsilva)
+- Problema de Origem (URL): https://github.com/prest/prest/issues/746
 - Nível de dificuldade: Médio
 
 ### Comunicação
