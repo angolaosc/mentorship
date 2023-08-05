@@ -150,7 +150,7 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 - Habilidades recomendadas:
    - Lógica de programação | JAVA | Orientação a objetos | Postgres | Docker
 - Mentor(s): Bruno Alves dos Santos
-- Problema de Origem (URL): https://www.un.org/sustainabledevelopment/climate-change/
+- Problema de Origem (URL): https://github.com/orgs/angolaosc/projects/1
 - Nível de dificuldade: Médio | Difícil
 
 ### Comunicação
