@@ -138,6 +138,21 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 - Problema de Origem (URL): https://github.com/prest/prest/issues/746
 - Nível de dificuldade: Médio
 
+
+#### Rede Angolana de Monitoramento de Desastres Naturais
+##### Sistema de Prevenção de Desastres Naturais
+
+- Descrição: Criar uma POC de uma Plataforma de IOT para monitoramento de Desastres Naturais
+- Resultado esperado: 
+   - Projeto (POC) de um framework para criar clientes que possam enviar dados para a plataforma
+   - Projeto (POC) do servidor que irá receber os dados do cliente
+      - Este servidor irá utilizar o protocolo MQTT para comunicação com o cliente
+- Habilidades recomendadas:
+   - Lógica de programação | JAVA | Orientação a objetos | Postgres | Docker
+- Mentor(s): Bruno Alves dos Santos
+- Problema de Origem (URL): https://www.un.org/sustainabledevelopment/climate-change/
+- Nível de dificuldade: Médio | Difícil
+
 ### Comunicação
 
 Encorajamos os participantes a se juntarem aos nossos canais de comunicação para se conectarem com outros participantes e mentores. O link para o canal será compartilhado com os participantes selecionados.
