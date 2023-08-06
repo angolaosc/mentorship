@@ -89,7 +89,7 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 - Resultado esperado: Um conjunto de jogos que executam em qualquer sistema operacional e qualquer dispositivo.
 - Habilidades recomendadas: Ler, escrever e falar português.
 - Mentor(s): Leonel Sanches da Silva ([@leonelsanchesdasilva](https://github.com/leonelsanchesdasilva))
-- Problema de Origem (URL): https://www.cassino.org/escola/como-jogar-craps, https://www.cassino.org/escola/como-jogar-roleta, https://www.cassino.org/escola/como-jogar-blackjack
+- Problema de Origem (URL): https://github.com/leonelsanchesdasilva/aosc-2023-delegua/blob/principal/README.md
 - Nível de dificuldade: Fácil
 
 #### RedTeam - Desenvolvimento de softwares focados em segurança ofensiva
