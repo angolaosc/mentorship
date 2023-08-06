@@ -9,8 +9,8 @@ O programa terá duração de 1 mês.
 
 | actividade | data |
 | --- | --- |
-| Submissão dos projectos | 25 à 04 de Agosto |
-| Pre-mentoring Talk | 31 de Julho(Tentativa) |
+| ~~Submissão dos projectos~~ | ~~25 à 04 de Agosto~~ |
+| ~~Pre-mentoring Talk~~ | ~~31 de Julho(Tentativa)~~|
 | Inscrições de participantes | 05 à 11 de Agosto |
 | Avaliações das inscrições | 11 à 13 de Agosto |
 | Anúncio de mentorados seleccionados | 14 de Agosto de 2023 |
@@ -22,7 +22,7 @@ O programa terá duração de 1 mês.
 
 ### Instruções de submissão de projectos
 
-Mantenedores de projectos e potenciais mentores são convidados a submeter descrição de seus projectos através da submissão de um PR no GitHub aqui [AOSC Mentorship Program]() até 31 de Julho de 2023. Encontre o modelo de submissão [aqui](https://github.com/angolaosc/mentorship/blob/main/PROJECT_IDEA_TEMPLATE.md).
+Mantenedores de projectos e potenciais mentores são convidados a submeter descrição de seus projectos através da submissão de um PR no GitHub aqui [AOSC Mentorship Program]() até 04 de Julho de 2023. Encontre o modelo de submissão [aqui](https://github.com/angolaosc/mentorship/blob/main/PROJECT_IDEA_TEMPLATE.md).
 
 Porfavor, encorajamos os mantenedores de projectos a submeterem seus projectos o mais cedo possível para que os participantes tenham tempo suficiente para se familiarizarem com os projectos e fazerem suas escolhas.
 
@@ -44,7 +44,7 @@ O curso foi elaborado pela [OpenSauced](github.com/open-sauced) e está completa
 Mais informações sobre o projecto aqui: https://github.com/open-sauced/intro/issues/16
 - Resultado esperado: Traduzir pelo menos 15% do curso.
 - Habilidades recomendadas: Inglês intermediário, HTML, CSS, e Javascript
-- Mentor(s): Nurul Carvalho(@Nurul-GC)
+- Mentor(s): Nurul Carvalho([@Nurul-GC](https://github.com/Nurul-GC))
 - Problema de Origem (URL): https://github.com/angolaosc/intro-em-portugues/issues/1
 - Nível de dificuldade: Fácil
 
@@ -56,7 +56,7 @@ O Risk Place Angola possui uma funcionalidade de comunicação em tempo real, qu
 Mais informações sobre o projecto aqui: https://github.com/risk-place-angola/backend-risk-place/issues/84
 - Resultado esperado: Criar alertas em tempo real sem o websocket client no controller de criação de alertas.
 - Habilidades recomendadas: Golang
-- Mentor(s): Pedro Lopes Estevão(@Paulo-Lopes-Estevao)
+- Mentor(s): Pedro Lopes Estevão([@Paulo-Lopes-Estevao](https://github.com/Paulo-Lopes-Estevao))
 - Problema de Origem (URL): https://github.com/risk-place-angola/backend-risk-place/issues/85
 - Nível de dificuldade: Médio
 
@@ -69,7 +69,7 @@ A variante Dio deve dar suporte a raw data body e headers.
 Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao/client-code-generators/issues/4
 - Resultado esperado: gerar código de pedido HTTP para a linguagem Dart com a variante Dio, que deve dar suporte a raw data body, headers e o método de pedido HTTP POST.
 - Habilidades recomendadas: Dart, HTTP, Inglês básico.
-- Mentor(s): Paulo Lopes Estevão(@Paulo-Lopes-Estevao)
+- Mentor(s): Paulo Lopes Estevão([@Paulo-Lopes-Estevao](https://github.com/Paulo-Lopes-Estevao))
 - Problema de Origem (URL): https://github.com/Paulo-Lopes-Estevao/client-code-generators/issues/5
 - Nível de dificuldade: Médio
 
@@ -79,7 +79,7 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 - Resultado esperado:  Módulo python (Predictlow) e disponibilizá-lo para instalação via [PIP] (https://pypi.org/project/pip/) para a comunidade opensource consumir com facilidade.
 - Problema de Origem (Referência Bibliográfica): https://en.m.wikipedia.org/wiki/Out_of_memory
 - Habilidades recomendadas: É desejável python e básico de álgebra linear. Noções de aprendizagem de máquina é um diferencial.
-- Mentor(s): Kayenga Campos(@Kissabi)
+- Mentor(s): Kayenga Campos([@Kissabi](https://github.com/Kissabi))
 - Nível de dificuldade: Fácil.
 
 #### Jogos de Cassino em Delégua - Implementando Jogos em Console usando Linguagem 100% em Português
@@ -88,7 +88,7 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 - Descrição: Gostaria de aprender a programar do zero e não sabes por onde começar? Podes experimentar [Delégua, uma linguagem de programação 100% em português](https://github.com/DesignLiquido/delegua), que implementa todos os recursos de linguagens de mercado, como orientação a objetos, paradigmas imperativo e funcional. Neste projecto, irás aprender como implementar jogos de cassino como Roleta, Craps e Blackjack.
 - Resultado esperado: Um conjunto de jogos que executam em qualquer sistema operacional e qualquer dispositivo.
 - Habilidades recomendadas: Ler, escrever e falar português.
-- Mentor(s): Leonel Sanches da Silva (@leonelsanchesdasilva)
+- Mentor(s): Leonel Sanches da Silva ([@leonelsanchesdasilva](https://github.com/leonelsanchesdasilva))
 - Problema de Origem (URL): https://github.com/leonelsanchesdasilva/aosc-2023-delegua/blob/principal/README.md
 - Nível de dificuldade: Fácil
 
@@ -98,7 +98,7 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 - Descrição: Você gosta de cibersegurança e quer aprender a desenvolver ferramentas reais usadas no mundo real? Você vai criar ferramentas de RedTeam, que em cibersegurança é o nome dado a uma equipe de especialistas de segurança que simulam o comprometimento de uma empresa de ponta a ponta, simulando o mais real possível de um ataque real [com 100 Projetos diferentes usados em situações reais no mundo](https://github.com/kurogai/100-redteam-projects). Você tem a liberdade de escolher qualquer item da lista durante esta aventura.
 - Resultado esperado: Conhecer e desenvolver ferramentas de segurança ofensiva usadas em ambientes reais
 - Habilidades recomendadas: Qualquer linguagem de programação (que suporte o uso do http e sockets), conhecimento básico de redes
-- Mentor(s): Héber Júlio (@kurogai)
+- Mentor(s): Héber Júlio ([@kurogai](https://github.com/kurogai))
 - Problema de Origem (URL): https://github.com/kurogai/100-redteam-projects-aosc
 - Nível de dificuldade: Médio
 
@@ -110,8 +110,32 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
    - Revisar o código existente em busca de melhorias, remoção de redundâncias e simplificação do código.
    - Adotar boas práticas de programação e padrões de design para aumentar a qualidade e a manutenibilidade do código.
 - Habilidades recomendadas: Javascript | Nextjs | Clean code
-- Mentor(s): Miguel Buca (@miguelbuca)
+- Mentor(s): Miguel Buca ([@miguelbuca](https://github.com/miguelbuca))
 - Problema de Origem (URL): https://github.com/OMUNGA/Front-end/issues/44
+- Nível de dificuldade: Médio
+
+#### DoeSangue - Plataforma para conectar doadores de sangue ao Instituto Nacional de Sangue 
+##### Refactoração e upgrade
+
+- Descrição: Doesangue/Giveblood é uma plataforma (API as a Service) que visa servir de um ponto de ligação entre pessoas doadoras de sangue e instituições responsáveis por colheita de sangue (hospitais e Instituto Nacional de Sangue). 
+- Resultado esperado:
+   - Actualizar para versão mais recente do Laravel (v10 até a data)
+   - Refactorar as funcionalidades de cadastro de doadores para marcar como "em espera" para validação dos dados antes de marcar como doador válido
+   - Aplicar boas práticas e evitar duplicação de funções
+   - Cadastrar hospitais
+- Habilidades recomendadas: PHP/Laravel, Angular
+- Mentor(s): José Cage([@JoseCage](https://github.com/JoseCage))
+- Problema de Origem (URL): https://github.com/givebloodorg/doesangue-core/issues/57
+
+#### pREST - API REST para o Postgres
+##### Feature para escolha do modo JOIN
+
+- Descrição: O [pREST](https://github.com/prest/prest) é uma API REST criada para facilitar o desenvolvimento ágil. A versão atual obriga o desenvolvedor a usar o novo método de JOIN da API, mas isto apesar de melhorar o desempenho para a maioria quebrou alguns usuários, o que os impede de atualizar para versões mais novas.
+ - Resultado esperado:
+   - Através de uma nova configuração possibilitar que o usuário escolha seu método de JOIN na API.
+- Habilidades recomendadas: Golang | Postgres | Clean code | Docker
+- Mentor(s): Arthur Silva ([@arxdsilva](https://github.com/arxdsilva))
+- Problema de Origem (URL): https://github.com/prest/prest/issues/746
 - Nível de dificuldade: Médio
 
 ### Comunicação

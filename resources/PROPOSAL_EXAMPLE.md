@@ -1,3 +1,9 @@
+[Porfavor, note que, este documento é um exemplo]
+[Este documento deve ser submetido como um documento .doc ou .pdf.]
+[Porfavor, note que algumas informações mencionadas aqui são opcionais, exemplo cronograma]
+[Recomendamos que os candidatos entrem em contacto com os respectivos mentores do projecto selecionado para mais detalhe sobre o que é relavante incluir neste document]
+[Para cada projecto que você pretende contribuir, você precisa elaborar um proposta de solução para cada]
+
 # Proposta AOSC Mentorship 202XX - 1.0 - [Nome do Projeto]
 
 ## Informações do candidato
@@ -7,15 +13,11 @@
 - **GitHub:** [Seu Perfil do GitHub]
 - **LinkedIn:** [Seu Perfil do LinkedIn]
 
-## Resumo do Projeto
+## Solução
 
-[Descreva brevemente o projeto que você deseja contribuir durante o AOSC Mentorship 202XX - 1.0. Explique o que será desenvolvido, quais problemas ele aborda, quais são os principais objetivos do projeto e como você pretende contribuir para o seu sucesso.]
+[Forneça uma descrição detalhada de como você pretende solucionar/contribuir para o projecto que você selecionou.]
 
-## Descrição Detalhada
-
-[Forneça uma descrição mais detalhada do projeto, incluindo informações sobre as principais funcionalidades que serão implementadas, as tecnologias que serão utilizadas e como o projeto contribuirá para a comunidade de código aberto.]
-
-## Cronograma
+## Cronograma[opcional]
 Exemplo de cronograma:
 
 | **Período**                 | **Atividade**                       |
@@ -62,7 +64,7 @@ Exemplo de cronograma:
 
 ## Referências
 
-[Se houver alguma referência externa, como links para projetos anteriores ou trabalhos relacionados, inclua-as aqui.]
+[Se houver alguma referência externa, como links para projetos anteriores, inclua-as aqui.]
 
 ---
 Assinatura: [Seu Nome]
