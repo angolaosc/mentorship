@@ -161,7 +161,6 @@ Estes dados serão salvos em banco de dados criando uma base única para consult
 - Habilidades recomendadas: Lógica de programação | JAVA | Orientação a objetos | Postgres | Docker
 - Mentor(s): Bruno Alves dos Santos
 Problemas de Origem (URL): 
-https://github.com/angolaosc/monitora-angola/issues/2
 https://github.com/angolaosc/monitora-angola/issues/5
 https://github.com/angolaosc/monitora-angola/issues/6
 https://github.com/angolaosc/monitora-angola/issues/8
