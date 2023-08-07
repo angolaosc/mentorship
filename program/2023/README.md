@@ -169,7 +169,7 @@ Problemas de Origem (URL): https://github.com/angolaosc/monitora-angola/issues/2
 Resultado esperado: O cliente deverá simular dados para envio ao servidor. Também deverá ser capaz de ao inicializar, enviar o registro para depois começar o envio dos dados.
 Habilidades recomendadas: Lógica de programação | JAVA | Orientação a objetos | Postgres | Docker
 Mentor(s): Bruno Alves dos Santos
-Problemas de Origem (URL): 
+Problemas de Origem (URL): https://github.com/angolaosc/monitora-angola/issues/3
 https://github.com/angolaosc/monitora-angola/issues/3
 - Nível de dificuldade: Médio | Difícil
 
