@@ -138,6 +138,37 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 - Problema de Origem (URL): https://github.com/prest/prest/issues/746
 - Nível de dificuldade: Médio
 
+
+#### Rede Angolana de Monitoramento de Desastres Naturais - Sistema de Prevenção de Desastres Naturais
+
+- Descrição: Criar uma POC(Prova de conceito) de uma Plataforma de IOT para monitoramento de Desastres Naturais
+- Resultado esperado: 
+   - Projeto (POC) de um framework para criar clientes que possam enviar dados para a plataforma
+   - Projeto (POC) do servidor que irá receber os dados do cliente
+- Habilidades recomendadas:
+   - Lógica de programação | JAVA | Orientação a objetos | Postgres | Docker
+- Mentor(s): Bruno Alves dos Santos
+- Problema de Origem (URL): https://github.com/orgs/angolaosc/projects/1
+
+##### Criar servidor
+
+- Descrição: Precisamos criar um servidor que irá aceitar registros de clientes e envio de dados através do protocolo MQTT.
+Estes dados serão salvos em banco de dados criando uma base única para consulta.
+- Resultado esperado: Na nossa POC iremos registrar clientes e receber dados simples para armazenar no banco de dados.
+- Habilidades recomendadas: Lógica de programação | JAVA | Orientação a objetos | Postgres | Docker
+- Mentor(s): Bruno Alves dos Santos
+Problemas de Origem (URL): https://github.com/angolaosc/monitora-angola/issues/2
+- Nível de dificuldade: Médio | Difícil
+
+##### Criar um Cliente IOT
+
+- Descrição: Precisamos implementar um cliente para fazer o envio dos dados - por exemplo - nível dos rios - para o servidor. Para isso, este
+- Resultado esperado: O cliente deverá simular dados para envio ao servidor. Também deverá ser capaz de ao inicializar, enviar o registro para depois começar o envio dos dados.
+- Habilidades recomendadas: Lógica de programação | JAVA | Orientação a objetos | Postgres | Docker
+- Mentor(s): Bruno Alves dos Santos
+Problemas de Origem (URL): https://github.com/angolaosc/monitora-angola/issues/3
+- Nível de dificuldade: Médio | Difícil
+
 ### Comunicação
 
 Encorajamos os participantes a se juntarem aos nossos canais de comunicação para se conectarem com outros participantes e mentores. O link para o canal será compartilhado com os participantes selecionados.
