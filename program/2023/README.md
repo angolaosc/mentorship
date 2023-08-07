@@ -160,14 +160,12 @@ Estes dados serão salvos em banco de dados criando uma base única para consult
 - Resultado esperado: Na nossa POC iremos registrar clientes e receber dados simples para armazenar no banco de dados.
 - Habilidades recomendadas: Lógica de programação | JAVA | Orientação a objetos | Postgres | Docker
 - Mentor(s): Bruno Alves dos Santos
-Problemas de Origem (URL): 
-https://github.com/angolaosc/monitora-angola/issues/8
-Nível de dificuldade: Médio | Difícil
+Problemas de Origem (URL): https://github.com/angolaosc/monitora-angola/issues/2
+- Nível de dificuldade: Médio | Difícil
 
 ##### Criar um Cliente IOT
 
-Descrição: Precisamos implementar um cliente para fazer o envio dos dados - por exemplo - nível dos rios - para o servidor. Para isso, este
-cliente irá se comunicar através do protocolo MQTT.
+- Descrição: Precisamos implementar um cliente para fazer o envio dos dados - por exemplo - nível dos rios - para o servidor. Para isso, este
 Resultado esperado: O cliente deverá simular dados para envio ao servidor. Também deverá ser capaz de ao inicializar, enviar o registro para depois começar o envio dos dados.
 Habilidades recomendadas: Lógica de programação | JAVA | Orientação a objetos | Postgres | Docker
 Mentor(s): Bruno Alves dos Santos
