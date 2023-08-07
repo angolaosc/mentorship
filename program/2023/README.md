@@ -141,7 +141,7 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 
 #### Rede Angolana de Monitoramento de Desastres Naturais - Sistema de Prevenção de Desastres Naturais
 
-- Descrição: Criar uma POC de uma Plataforma de IOT para monitoramento de Desastres Naturais
+- Descrição: Criar uma POC(Prova de conceito) de uma Plataforma de IOT para monitoramento de Desastres Naturais
 - Resultado esperado: 
    - Projeto (POC) de um framework para criar clientes que possam enviar dados para a plataforma
    - Projeto (POC) do servidor que irá receber os dados do cliente
@@ -151,6 +151,7 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 - Problema de Origem (URL): https://github.com/orgs/angolaosc/projects/1
 
 ##### Criar servidor
+
 - Descrição: Precisamos criar um servidor que irá aceitar registros de clientes e envio de dados através do protocolo MQTT.
 Estes dados serão salvos em banco de dados criando uma base única para consulta.
 - Resultado esperado: Na nossa POC iremos registrar clientes e receber dados simples para armazenar no banco de dados.
