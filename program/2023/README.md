@@ -139,7 +139,9 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 - Nível de dificuldade: Médio
 
 
-#### Rede Angolana de Monitoramento de Desastres Naturais
+#### Rede Angolana de Monitoramento de Desastres Naturais - Sistema de Prevenção de Desastres Naturais
+Member
+
 ##### Sistema de Prevenção de Desastres Naturais
 
 - Descrição: Criar uma POC de uma Plataforma de IOT para monitoramento de Desastres Naturais
