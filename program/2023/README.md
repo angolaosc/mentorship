@@ -176,7 +176,7 @@ Habilidades recomendadas: Lógica de programação | JAVA | Orientação a objet
 Mentor(s): Bruno Alves dos Santos
 Problemas de Origem (URL): 
 https://github.com/angolaosc/monitora-angola/issues/3
-Nível de dificuldade: Médio | Difícil
+- Nível de dificuldade: Médio | Difícil
 
 ### Comunicação
 
