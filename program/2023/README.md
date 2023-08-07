@@ -157,7 +157,7 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 - Descrição: Precisamos criar um servidor que irá aceitar registros de clientes e envio de dados através do protocolo MQTT.
 Estes dados serão salvos em banco de dados criando uma base única para consulta.
 - Resultado esperado: Na nossa POC iremos registrar clientes e receber dados simples para armazenar no banco de dados.
-Habilidades recomendadas: Lógica de programação | JAVA | Orientação a objetos | Postgres | Docker
+- Habilidades recomendadas: Lógica de programação | JAVA | Orientação a objetos | Postgres | Docker
 Mentor(s): Bruno Alves dos Santos
 Problemas de Origem (URL): 
 https://github.com/angolaosc/monitora-angola/issues/1
