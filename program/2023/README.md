@@ -159,7 +159,7 @@ Member
 Estes dados serão salvos em banco de dados criando uma base única para consulta.
 - Resultado esperado: Na nossa POC iremos registrar clientes e receber dados simples para armazenar no banco de dados.
 - Habilidades recomendadas: Lógica de programação | JAVA | Orientação a objetos | Postgres | Docker
-Mentor(s): Bruno Alves dos Santos
+- Mentor(s): Bruno Alves dos Santos
 Problemas de Origem (URL): 
 https://github.com/angolaosc/monitora-angola/issues/1
 https://github.com/angolaosc/monitora-angola/issues/2
