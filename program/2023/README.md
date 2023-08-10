@@ -168,6 +168,46 @@ Problemas de Origem (URL): https://github.com/angolaosc/monitora-angola/issues/2
 Problemas de Origem (URL): https://github.com/angolaosc/monitora-angola/issues/3
 - Nível de dificuldade: Médio | Difícil
 
+#### ClientAO - API Client (Open Source) para criar APIs calls, alternativa ao POSTMAN & Insomnia feito em Flutter/Dart.
+
+##### Refatoração da code base
+
+- Descrição: precisamos revisar o código existente em busca de melhorias, remoção de redundâncias e simplificação do código.
+- Resultado esperado:
+  - Ter uma codebase limpa
+  - Ter os ficheiros não usados removidos
+- Habilidades recomendadas: Flutter, Dart, Riverpod, HTTP, Inglês intermediário.
+- Mentor: António Nicolau ([@antonio-nicolau](https://github.com/antonio-nicolau)).
+- Nível de dificuldade: fácil.
+
+##### Atualizar o pacote web_socket_channel
+
+- Descrição: Atualizar o web_socket_channel para ter acesso as ultimas atualizações que inclue a possibilidade de adicionar Headers na conexão.
+- Resultado esperado: Atualizar o pacote web_socket_channel para versão 2.4.0 
+- Habilidades recomendadas: Flutter, Dart, Inglês básico.
+- Mentor: António Nicolau ([@antonio-nicolau](https://github.com/antonio-nicolau)).
+- Nível de dificuldade: Fácil.
+
+##### Adicionar Headers ao enviar requisições WebSocket
+
+- Descrição: A versão atual não suporta envio de headers nas requisições WebSocket. Mas partir da versão ^2.4.0 do web_socket_channel, é possível adicionar Headers na conexão.
+- Resultado esperado: Adicionar suporte para envio de Headers nas requisições WebSocket
+- Habilidades recomendadas: Flutter, Dart, Riverpod, Http, WebSocket, Inglês intermediário.
+- Mentor: António Nicolau ([@antonio-nicolau](https://github.com/antonio-nicolau)).
+- Nível de dificuldade: Médio.
+
+##### Adicionar suporte para GraphQL
+
+- Descrição: A versão atual apenas oferece suporte para requisições http & websocket. Esta tarefa consiste em adicionar suporte para GraphQL.
+- Resultado esperado: 
+  - Adicionar o pacote graphql_flutter
+  - Adicionar requisições GraphQL as collections
+  - Adicionar Autenticação para GraphQL (username & passsword, Bearer, apiKey por enquanto)
+  - Atualizar os widgets de envio/resposta de requests para suportar GraphQL
+- Habilidades recomendadas: Flutter, Dart, Riverpod, Http, WebSocket, GraphQL, Inglês intermediário.
+- Mentor: António Nicolau ([@antonio-nicolau](https://github.com/antonio-nicolau)).
+- Nível de dificuldade: Avançado.
+
 ### Comunicação
 
 Encorajamos os participantes a se juntarem aos nossos canais de comunicação para se conectarem com outros participantes e mentores. O link para o canal será compartilhado com os participantes selecionados.
