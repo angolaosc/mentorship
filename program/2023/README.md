@@ -186,7 +186,7 @@ Problemas de Origem (URL): https://github.com/angolaosc/monitora-angola/issues/3
 - Descrição: Atualizar o web_socket_channel para ter acesso as ultimas atualizações que inclue a possibilidade de adicionar Headers na conexão.
 - Resultado esperado: Atualizar o pacote web_socket_channel para versão 2.4.0 
 - Habilidades recomendadas: Flutter, Dart, Inglês básico.
-- Mentor: António Nicolau (@antonio-nicolau).
+- Mentor: António Nicolau ([@antonio-nicolau](https://github.com/antonio-nicolau)).
 - Nível de dificuldade: Fácil.
 
 ##### Adicionar Headers ao enviar requisições WebSocket
