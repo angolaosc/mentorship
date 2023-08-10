@@ -172,20 +172,43 @@ Problemas de Origem (URL): https://github.com/angolaosc/monitora-angola/issues/3
 #### ClientAO - API Client.
 ##### API Client (Open Source) para criar APIs calls, alternativa ao POSTMAN & Insomnia feito em Flutter/Dart.
 
- ##### Refatoração da code base para torná-la mais clean
- ##### Atualizar o pacote WebSocket
- ##### Adicionar Headers ao enviar requisições WebSocket
- ##### Adicionar suporte para GraphQL
+##### Refatoração da code base
 
-- Descrição: [ClientAO](https://github.com/antonio-nicolau/ClientAO) é uma API Client (Open Source) para criar APIs calls, inspecionar visualmente as respostas.
+- Descrição: precisamos revisar o código existente em busca de melhorias, remoção de redundâncias e simplificação do código.
 - Resultado esperado:
-   - Revisar o código existente em busca de melhorias, remoção de redundâncias e simplificação do código.
-   - Atualizar os packages utilizados na app (e.g websocket, http).
-   - Adicionar os headers das requests ao criar websocket connections
-   - Adicionar suporte para GraphQL, atualmente apenas tem suporte para Http & WebSocket
-- Habilidades recomendadas: Flutter, Dart, HTTP, Inglês intermediate.
+  - Ter uma codebase limpa
+  - Ter os ficheiros não usados removidos
+- Habilidades recomendadas: Flutter, Dart, HTTP, Inglês intermediário.
+- Mentor: António Nicolau (@antonio-nicolau).
+- Nível de dificuldade: fácil.
+
+##### Atualizar o pacote web_socket_channel
+
+- Descrição: Atualizar o web_socket_channel para ter acesso as ultimas atualizações que inclue a possibilidade de adicionar Headers na conexão.
+- Resultado esperado: Atualizar o pacote web_socket_channel para versão 2.4.0 
+- Habilidades recomendadas: Flutter, Dart, Inglês básico.
+- Mentor: António Nicolau (@antonio-nicolau).
+- Nível de dificuldade: Fácil.
+
+##### Adicionar Headers ao enviar requisições WebSocket
+
+- Descrição: A versão atual não suporta envio de headers nas requisições WebSocket. Mas partir da versão ^2.4.0 do web_socket_channel, é possível adicionar Headers na conexão.
+- Resultado esperado: Adicionar suporte para envio de Headers nas requisições WebSocket
+- Habilidades recomendadas: Flutter, Dart, Http, WebSocket, Inglês intermediário.
 - Mentor: António Nicolau (@antonio-nicolau).
 - Nível de dificuldade: Médio.
+
+##### Adicionar suporte para GraphQL
+
+- Descrição: A versão atual apenas oferece suporte para requisições http & websocket. Esta tarefa consiste em adicionar suporte para GraphQL.
+- Resultado esperado: 
+  - Adicionar o pacote graphql_flutter
+  - Adicionar requisições GraphQL as collections
+  - Adicionar Autenticação para GraphQL (username & passsword, Bearer, apiKey por enquanto)
+  - Atualizar os widgets de envio/resposta de requests para suportar GraphQL
+- Habilidades recomendadas: Flutter, Dart, Http, WebSocket, GraphQL, Inglês intermediário.
+- Mentor: António Nicolau (@antonio-nicolau).
+- Nível de dificuldade: Avançado.
 
 ### Comunicação
 
