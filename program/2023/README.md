@@ -194,7 +194,7 @@ Problemas de Origem (URL): https://github.com/angolaosc/monitora-angola/issues/3
 - Descrição: A versão atual não suporta envio de headers nas requisições WebSocket. Mas partir da versão ^2.4.0 do web_socket_channel, é possível adicionar Headers na conexão.
 - Resultado esperado: Adicionar suporte para envio de Headers nas requisições WebSocket
 - Habilidades recomendadas: Flutter, Dart, Riverpod, Http, WebSocket, Inglês intermediário.
-- Mentor: António Nicolau (@antonio-nicolau).
+- Mentor: António Nicolau ([@antonio-nicolau](https://github.com/antonio-nicolau)).
 - Nível de dificuldade: Médio.
 
 ##### Adicionar suporte para GraphQL
