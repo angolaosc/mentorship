@@ -169,7 +169,7 @@ Problemas de Origem (URL): https://github.com/angolaosc/monitora-angola/issues/2
 Problemas de Origem (URL): https://github.com/angolaosc/monitora-angola/issues/3
 - Nível de dificuldade: Médio | Difícil
 
-#### ClientAO - API Client.
+#### ClientAO - API Client (Open Source) para criar APIs calls, alternativa ao POSTMAN & Insomnia feito em Flutter/Dart.
 ##### API Client (Open Source) para criar APIs calls, alternativa ao POSTMAN & Insomnia feito em Flutter/Dart.
 
 ##### Refatoração da code base
