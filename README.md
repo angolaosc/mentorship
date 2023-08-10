@@ -8,7 +8,7 @@ Os objectivos do programa são:
 - Preparar os desenvolvedores com conhecimentos essenciais sobre ferramentas e práticas utilizadas no desenvolvimento de software livre
 - Conectar mentores experientes, colaboradores e organizações.
 
-O `AOSC Mentorship` estará aberto para a próxima turma: [Primeira Edição, Agosto de 2023](program/2023/README.md).
+O `AOSC Mentorship` está recebndo inscrições para a primeira turma: [Primeira Edição, Agosto de 2023](program/2023/README.md).
 
 ## Estrutura do Programa
 
@@ -22,7 +22,7 @@ O `AOSC Mentorship` tem duração de um mês e é composto por três fases:
 
 ## Guias do Programa
 
-Consulte a guia geral do programa para obter mais informações,[AOSC Mentorship Program Guide](https://github.com/angolaosc/mentorship/blob/main/resources/AOSC_Mentorship_Program_Guide.pdf).
+Consulte a guia geral do programa para obter mais informações, [AOSC Mentorship Program Guide](https://github.com/angolaosc/mentorship/blob/main/resources/AOSC_Mentorship_Program_Guide.pdf).
 
 ### Como participar
 
