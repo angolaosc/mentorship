@@ -178,7 +178,7 @@ Problemas de Origem (URL): https://github.com/angolaosc/monitora-angola/issues/3
 - Resultado esperado:
   - Ter uma codebase limpa
   - Ter os ficheiros não usados removidos
-- Habilidades recomendadas: Flutter, Dart, HTTP, Inglês intermediário.
+- Habilidades recomendadas: Flutter, Dart, Riverpod, HTTP, Inglês intermediário.
 - Mentor: António Nicolau (@antonio-nicolau).
 - Nível de dificuldade: fácil.
 
@@ -194,7 +194,7 @@ Problemas de Origem (URL): https://github.com/angolaosc/monitora-angola/issues/3
 
 - Descrição: A versão atual não suporta envio de headers nas requisições WebSocket. Mas partir da versão ^2.4.0 do web_socket_channel, é possível adicionar Headers na conexão.
 - Resultado esperado: Adicionar suporte para envio de Headers nas requisições WebSocket
-- Habilidades recomendadas: Flutter, Dart, Http, WebSocket, Inglês intermediário.
+- Habilidades recomendadas: Flutter, Dart, Riverpod, Http, WebSocket, Inglês intermediário.
 - Mentor: António Nicolau (@antonio-nicolau).
 - Nível de dificuldade: Médio.
 
@@ -206,7 +206,7 @@ Problemas de Origem (URL): https://github.com/angolaosc/monitora-angola/issues/3
   - Adicionar requisições GraphQL as collections
   - Adicionar Autenticação para GraphQL (username & passsword, Bearer, apiKey por enquanto)
   - Atualizar os widgets de envio/resposta de requests para suportar GraphQL
-- Habilidades recomendadas: Flutter, Dart, Http, WebSocket, GraphQL, Inglês intermediário.
+- Habilidades recomendadas: Flutter, Dart, Riverpod, Http, WebSocket, GraphQL, Inglês intermediário.
 - Mentor: António Nicolau (@antonio-nicolau).
 - Nível de dificuldade: Avançado.
 
