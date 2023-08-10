@@ -7,17 +7,16 @@ O programa terá duração de 1 mês.
 
 ### Timeline
 
-| actividade | data |
-| --- | --- |
-| ~~Submissão dos projectos~~ | ~~25 à 04 de Agosto~~ |
-| ~~Pre-mentoring Talk~~ | ~~31 de Julho(Tentativa)~~|
-| Inscrições de participantes | 05 à 11 de Agosto |
-| Avaliações das inscrições | 11 à 13 de Agosto |
-| Anúncio de mentorados seleccionados | 14 de Agosto de 2023 |
-| Pre-mentoria workshop | 15 à 18 de Agosto |
-| Fase da mentoria | 21 de Agosto |
-| Submissão dos blogs | 04 à 08 de Setembro |
-| Fim do programa | 09 de Setembro |
+| actividade | data                       |
+| --- |----------------------------|
+| ~~Submissão dos projectos~~ | ~~25 à 04 de Agosto~~      |
+| ~~Pre-mentoring Talk~~ | ~~31 de Julho(Tentativa)~~ |
+| Inscrições de participantes | 05 à 17 de Agosto          |
+| Avaliações das inscrições | 18 à 19 de Agosto           |
+| Anúncio de mentorados seleccionados | 20 de Agosto de 2023       |
+| Fase da mentoria | 21 de Agosto               |
+| Submissão dos blogs | 04 à 08 de Setembro        |
+| Fim do programa | 09 de Setembro             |
 
 
 ### Instruções de submissão de projectos
