@@ -206,7 +206,7 @@ Problemas de Origem (URL): https://github.com/angolaosc/monitora-angola/issues/3
   - Adicionar Autenticação para GraphQL (username & passsword, Bearer, apiKey por enquanto)
   - Atualizar os widgets de envio/resposta de requests para suportar GraphQL
 - Habilidades recomendadas: Flutter, Dart, Riverpod, Http, WebSocket, GraphQL, Inglês intermediário.
-- Mentor: António Nicolau (@antonio-nicolau).
+- Mentor: António Nicolau ([@antonio-nicolau](https://github.com/antonio-nicolau)).
 - Nível de dificuldade: Avançado.
 
 ### Comunicação
