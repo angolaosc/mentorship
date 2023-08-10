@@ -178,7 +178,7 @@ Problemas de Origem (URL): https://github.com/angolaosc/monitora-angola/issues/3
   - Ter uma codebase limpa
   - Ter os ficheiros não usados removidos
 - Habilidades recomendadas: Flutter, Dart, Riverpod, HTTP, Inglês intermediário.
-- Mentor: António Nicolau (@antonio-nicolau).
+- Mentor: António Nicolau ([@antonio-nicolau](https://github.com/antonio-nicolau)).
 - Nível de dificuldade: fácil.
 
 ##### Atualizar o pacote web_socket_channel
