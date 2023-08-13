@@ -122,9 +122,9 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
    - Refactorar as funcionalidades de cadastro de doadores para marcar como "em espera" para validação dos dados antes de marcar como doador válido
    - Aplicar boas práticas e evitar duplicação de funções
    - Cadastrar hospitais
-- Habilidades recomendadas: PHP/Laravel, Angular
+- Habilidades recomendadas: PHP/Laravel, Angular, Flutter, Nodejs/Javascript
 - Mentor(s): José Cage([@JoseCage](https://github.com/JoseCage))
-- Problema de Origem (URL): https://github.com/givebloodorg/doesangue-core/issues/57
+- Problema de Origem (URL): https://github.com/givebloodorg/doesangue-core/issues/87
 
 #### pREST - API REST para o Postgres
 ##### Feature para escolha do modo JOIN
