@@ -7,28 +7,27 @@ O programa terá duração de 1 mês.
 
 ### Timeline
 
-| actividade | data |
-| --- | --- |
-| Submissão dos projectos | 25 à 04 de Agosto |
-| Pre-mentoring Talk | 31 de Julho(Tentativa) |
-| Inscrições de participantes | 05 à 11 de Agosto |
-| Avaliações das inscrições | 11 à 13 de Agosto |
-| Anúncio de mentorados seleccionados | 14 de Agosto de 2023 |
-| Pre-mentoria workshop | 15 à 18 de Agosto |
-| Fase da mentoria | 21 de Agosto |
-| Submissão dos blogs | 04 à 08 de Setembro |
-| Fim do programa | 09 de Setembro |
+| actividade | data                       |
+| --- |----------------------------|
+| ~~Submissão dos projectos~~ | ~~25 à 04 de Agosto~~      |
+| ~~Pre-mentoring Talk~~ | ~~31 de Julho(Tentativa)~~ |
+| Inscrições de participantes | 05 à 17 de Agosto          |
+| Avaliações das inscrições | 18 à 19 de Agosto           |
+| Anúncio de mentorados seleccionados | 20 de Agosto de 2023       |
+| Fase da mentoria | 21 de Agosto               |
+| Submissão dos blogs | 04 à 08 de Setembro        |
+| Fim do programa | 09 de Setembro             |
 
 
 ### Instruções de submissão de projectos
 
-Mantenedores de projectos e potenciais mentores são convidados a submeter descrição de seus projectos através da submissão de um PR no GitHub aqui [AOSC Mentorship Program]() até 31 de Julho de 2023. Encontre o modelo de submissão [aqui](https://github.com/angolaosc/mentorship/blob/main/PROJECT_IDEA_TEMPLATE.md).
+Mantenedores de projectos e potenciais mentores são convidados a submeter descrição de seus projectos através da submissão de um PR no GitHub aqui [AOSC Mentorship Program]() até 04 de Julho de 2023. Encontre o modelo de submissão [aqui](https://github.com/angolaosc/mentorship/blob/main/PROJECT_IDEA_TEMPLATE.md).
 
 Porfavor, encorajamos os mantenedores de projectos a submeterem seus projectos o mais cedo possível para que os participantes tenham tempo suficiente para se familiarizarem com os projectos e fazerem suas escolhas.
 
 ### Instruções de inscrição para participantes
 
-Os participantes são convidados a se inscreverem através do formulário de inscrição [AOSC Mentorship Program]() até 08 de Agosto de 2023. Para mais informações sobre o processo de inscrição, consulte o [AOSC Mentorship Program Guide](https://github.com/angolaosc/mentorship/blob/main/resources/AOSC_Mentorship_Program_Guide.pdf).
+Os participantes são convidados a se inscreverem através do formulário de inscrição [AOSC Mentorship Program]() até 11 de Agosto de 2023. Para mais informações sobre o processo de inscrição, consulte o [AOSC Mentorship Program Guide](https://github.com/angolaosc/mentorship/blob/main/resources/AOSC_Mentorship_Program_Guide.pdf).
 
 ---
 
@@ -44,7 +43,7 @@ O curso foi elaborado pela [OpenSauced](github.com/open-sauced) e está completa
 Mais informações sobre o projecto aqui: https://github.com/open-sauced/intro/issues/16
 - Resultado esperado: Traduzir pelo menos 15% do curso.
 - Habilidades recomendadas: Inglês intermediário, HTML, CSS, e Javascript
-- Mentor(s): Nurul Carvalho(@Nurul-GC)
+- Mentor(s): Nurul Carvalho([@Nurul-GC](https://github.com/Nurul-GC))
 - Problema de Origem (URL): https://github.com/angolaosc/intro-em-portugues/issues/1
 - Nível de dificuldade: Fácil
 
@@ -56,7 +55,7 @@ O Risk Place Angola possui uma funcionalidade de comunicação em tempo real, qu
 Mais informações sobre o projecto aqui: https://github.com/risk-place-angola/backend-risk-place/issues/84
 - Resultado esperado: Criar alertas em tempo real sem o websocket client no controller de criação de alertas.
 - Habilidades recomendadas: Golang
-- Mentor(s): Pedro Lopes Estevão(@Paulo-Lopes-Estevao)
+- Mentor(s): Pedro Lopes Estevão([@Paulo-Lopes-Estevao](https://github.com/Paulo-Lopes-Estevao))
 - Problema de Origem (URL): https://github.com/risk-place-angola/backend-risk-place/issues/85
 - Nível de dificuldade: Médio
 
@@ -69,7 +68,7 @@ A variante Dio deve dar suporte a raw data body e headers.
 Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao/client-code-generators/issues/4
 - Resultado esperado: gerar código de pedido HTTP para a linguagem Dart com a variante Dio, que deve dar suporte a raw data body, headers e o método de pedido HTTP POST.
 - Habilidades recomendadas: Dart, HTTP, Inglês básico.
-- Mentor(s): Paulo Lopes Estevão(@Paulo-Lopes-Estevao)
+- Mentor(s): Paulo Lopes Estevão([@Paulo-Lopes-Estevao](https://github.com/Paulo-Lopes-Estevao))
 - Problema de Origem (URL): https://github.com/Paulo-Lopes-Estevao/client-code-generators/issues/5
 - Nível de dificuldade: Médio
 
@@ -79,7 +78,7 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 - Resultado esperado:  Módulo python (Predictlow) e disponibilizá-lo para instalação via [PIP] (https://pypi.org/project/pip/) para a comunidade opensource consumir com facilidade.
 - Problema de Origem (Referência Bibliográfica): https://en.m.wikipedia.org/wiki/Out_of_memory
 - Habilidades recomendadas: É desejável python e básico de álgebra linear. Noções de aprendizagem de máquina é um diferencial.
-- Mentor(s): Kayenga Campos(@Kissabi)
+- Mentor(s): Kayenga Campos([@Kissabi](https://github.com/Kissabi))
 - Nível de dificuldade: Fácil.
 
 #### Jogos de Cassino em Delégua - Implementando Jogos em Console usando Linguagem 100% em Português
@@ -88,8 +87,8 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 - Descrição: Gostaria de aprender a programar do zero e não sabes por onde começar? Podes experimentar [Delégua, uma linguagem de programação 100% em português](https://github.com/DesignLiquido/delegua), que implementa todos os recursos de linguagens de mercado, como orientação a objetos, paradigmas imperativo e funcional. Neste projecto, irás aprender como implementar jogos de cassino como Roleta, Craps e Blackjack.
 - Resultado esperado: Um conjunto de jogos que executam em qualquer sistema operacional e qualquer dispositivo.
 - Habilidades recomendadas: Ler, escrever e falar português.
-- Mentor(s): Leonel Sanches da Silva (@leonelsanchesdasilva)
-- Problema de Origem (URL): https://www.cassino.org/escola/como-jogar-craps, https://www.cassino.org/escola/como-jogar-roleta, https://www.cassino.org/escola/como-jogar-blackjack
+- Mentor(s): Leonel Sanches da Silva ([@leonelsanchesdasilva](https://github.com/leonelsanchesdasilva))
+- Problema de Origem (URL): https://github.com/leonelsanchesdasilva/aosc-2023-delegua/blob/principal/README.md
 - Nível de dificuldade: Fácil
 
 #### RedTeam - Desenvolvimento de softwares focados em segurança ofensiva
@@ -98,7 +97,7 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
 - Descrição: Você gosta de cibersegurança e quer aprender a desenvolver ferramentas reais usadas no mundo real? Você vai criar ferramentas de RedTeam, que em cibersegurança é o nome dado a uma equipe de especialistas de segurança que simulam o comprometimento de uma empresa de ponta a ponta, simulando o mais real possível de um ataque real [com 100 Projetos diferentes usados em situações reais no mundo](https://github.com/kurogai/100-redteam-projects). Você tem a liberdade de escolher qualquer item da lista durante esta aventura.
 - Resultado esperado: Conhecer e desenvolver ferramentas de segurança ofensiva usadas em ambientes reais
 - Habilidades recomendadas: Qualquer linguagem de programação (que suporte o uso do http e sockets), conhecimento básico de redes
-- Mentor(s): Héber Júlio (@kurogai)
+- Mentor(s): Héber Júlio ([@kurogai](https://github.com/kurogai))
 - Problema de Origem (URL): https://github.com/kurogai/100-redteam-projects-aosc
 - Nível de dificuldade: Médio
 
@@ -110,7 +109,7 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
    - Revisar o código existente em busca de melhorias, remoção de redundâncias e simplificação do código.
    - Adotar boas práticas de programação e padrões de design para aumentar a qualidade e a manutenibilidade do código.
 - Habilidades recomendadas: Javascript | Nextjs | Clean code
-- Mentor(s): Miguel Buca (@miguelbuca)
+- Mentor(s): Miguel Buca ([@miguelbuca](https://github.com/miguelbuca))
 - Problema de Origem (URL): https://github.com/OMUNGA/Front-end/issues/44
 - Nível de dificuldade: Médio
 
@@ -123,10 +122,91 @@ Mais informações sobre o projecto aqui: https://github.com/Paulo-Lopes-Estevao
    - Refactorar as funcionalidades de cadastro de doadores para marcar como "em espera" para validação dos dados antes de marcar como doador válido
    - Aplicar boas práticas e evitar duplicação de funções
    - Cadastrar hospitais
-- Habilidades recomendadas: PHP/Laravel, Angular
+- Habilidades recomendadas: PHP/Laravel, Angular, Flutter, Nodejs/Javascript
 - Mentor(s): José Cage([@JoseCage](https://github.com/JoseCage))
-- Problema de Origem (URL): https://github.com/givebloodorg/doesangue-core/issues/57
+- Problema de Origem (URL): https://github.com/givebloodorg/doesangue-core/issues/87
+
+#### pREST - API REST para o Postgres
+##### Feature para escolha do modo JOIN
+
+- Descrição: O [pREST](https://github.com/prest/prest) é uma API REST criada para facilitar o desenvolvimento ágil. A versão atual obriga o desenvolvedor a usar o novo método de JOIN da API, mas isto apesar de melhorar o desempenho para a maioria quebrou alguns usuários, o que os impede de atualizar para versões mais novas.
+ - Resultado esperado:
+   - Através de uma nova configuração possibilitar que o usuário escolha seu método de JOIN na API.
+- Habilidades recomendadas: Golang | Postgres | Clean code | Docker
+- Mentor(s): Arthur Silva ([@arxdsilva](https://github.com/arxdsilva))
+- Problema de Origem (URL): https://github.com/prest/prest/issues/746
 - Nível de dificuldade: Médio
+
+
+#### Rede Angolana de Monitoramento de Desastres Naturais - Sistema de Prevenção de Desastres Naturais
+
+- Descrição: Criar uma POC(Prova de conceito) de uma Plataforma de IOT para monitoramento de Desastres Naturais
+- Resultado esperado: 
+   - Projeto (POC) de um framework para criar clientes que possam enviar dados para a plataforma
+   - Projeto (POC) do servidor que irá receber os dados do cliente
+- Habilidades recomendadas:
+   - Lógica de programação | JAVA | Orientação a objetos | Postgres | Docker
+- Mentor(s): Bruno Alves dos Santos
+- Problema de Origem (URL): https://github.com/orgs/angolaosc/projects/1
+
+##### Criar servidor
+
+- Descrição: Precisamos criar um servidor que irá aceitar registros de clientes e envio de dados através do protocolo MQTT.
+Estes dados serão salvos em banco de dados criando uma base única para consulta.
+- Resultado esperado: Na nossa POC iremos registrar clientes e receber dados simples para armazenar no banco de dados.
+- Habilidades recomendadas: Lógica de programação | JAVA | Orientação a objetos | Postgres | Docker
+- Mentor(s): Bruno Alves dos Santos
+Problemas de Origem (URL): https://github.com/angolaosc/monitora-angola/issues/2
+- Nível de dificuldade: Médio | Difícil
+
+##### Criar um Cliente IOT
+
+- Descrição: Precisamos implementar um cliente para fazer o envio dos dados - por exemplo - nível dos rios - para o servidor. Para isso, este
+- Resultado esperado: O cliente deverá simular dados para envio ao servidor. Também deverá ser capaz de ao inicializar, enviar o registro para depois começar o envio dos dados.
+- Habilidades recomendadas: Lógica de programação | JAVA | Orientação a objetos | Postgres | Docker
+- Mentor(s): Bruno Alves dos Santos
+Problemas de Origem (URL): https://github.com/angolaosc/monitora-angola/issues/3
+- Nível de dificuldade: Médio | Difícil
+
+#### ClientAO - API Client (Open Source) para criar APIs calls, alternativa ao POSTMAN & Insomnia feito em Flutter/Dart.
+
+##### Refatoração da code base
+
+- Descrição: precisamos revisar o código existente em busca de melhorias, remoção de redundâncias e simplificação do código.
+- Resultado esperado:
+  - Ter uma codebase limpa
+  - Ter os ficheiros não usados removidos
+- Habilidades recomendadas: Flutter, Dart, Riverpod, HTTP, Inglês intermediário.
+- Mentor: António Nicolau ([@antonio-nicolau](https://github.com/antonio-nicolau)).
+- Nível de dificuldade: fácil.
+
+##### Atualizar o pacote web_socket_channel
+
+- Descrição: Atualizar o web_socket_channel para ter acesso as ultimas atualizações que inclue a possibilidade de adicionar Headers na conexão.
+- Resultado esperado: Atualizar o pacote web_socket_channel para versão 2.4.0 
+- Habilidades recomendadas: Flutter, Dart, Inglês básico.
+- Mentor: António Nicolau ([@antonio-nicolau](https://github.com/antonio-nicolau)).
+- Nível de dificuldade: Fácil.
+
+##### Adicionar Headers ao enviar requisições WebSocket
+
+- Descrição: A versão atual não suporta envio de headers nas requisições WebSocket. Mas partir da versão ^2.4.0 do web_socket_channel, é possível adicionar Headers na conexão.
+- Resultado esperado: Adicionar suporte para envio de Headers nas requisições WebSocket
+- Habilidades recomendadas: Flutter, Dart, Riverpod, Http, WebSocket, Inglês intermediário.
+- Mentor: António Nicolau ([@antonio-nicolau](https://github.com/antonio-nicolau)).
+- Nível de dificuldade: Médio.
+
+##### Adicionar suporte para GraphQL
+
+- Descrição: A versão atual apenas oferece suporte para requisições http & websocket. Esta tarefa consiste em adicionar suporte para GraphQL.
+- Resultado esperado: 
+  - Adicionar o pacote graphql_flutter
+  - Adicionar requisições GraphQL as collections
+  - Adicionar Autenticação para GraphQL (username & passsword, Bearer, apiKey por enquanto)
+  - Atualizar os widgets de envio/resposta de requests para suportar GraphQL
+- Habilidades recomendadas: Flutter, Dart, Riverpod, Http, WebSocket, GraphQL, Inglês intermediário.
+- Mentor: António Nicolau ([@antonio-nicolau](https://github.com/antonio-nicolau)).
+- Nível de dificuldade: Avançado.
 
 ### Comunicação
 
