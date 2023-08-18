@@ -11,7 +11,7 @@ O programa terá duração de 1 mês.
 | --- |----------------------------|
 | ~~Submissão dos projectos~~ | ~~25 à 04 de Agosto~~      |
 | ~~Pre-mentoring Talk~~ | ~~31 de Julho(Tentativa)~~ |
-| Inscrições de participantes | 05 à 17 de Agosto          |
+| ~~Inscrições de participantes~~ | ~~05 à 17 de Agosto~~          |
 | Avaliações das inscrições | 18 à 19 de Agosto           |
 | Anúncio de mentorados seleccionados | 20 de Agosto de 2023       |
 | Fase da mentoria | 21 de Agosto               |
@@ -27,7 +27,7 @@ Porfavor, encorajamos os mantenedores de projectos a submeterem seus projectos o
 
 ### Instruções de inscrição para participantes
 
-Os participantes são convidados a se inscreverem através do formulário de inscrição [AOSC Mentorship Program]() até 11 de Agosto de 2023. Para mais informações sobre o processo de inscrição, consulte o [AOSC Mentorship Program Guide](https://github.com/angolaosc/mentorship/blob/main/resources/AOSC_Mentorship_Program_Guide.pdf).
+Os participantes são convidados a se inscreverem através do formulário de inscrição [AOSC Mentorship Program]() até 17 de Agosto de 2023. Para mais informações sobre o processo de inscrição, consulte o [AOSC Mentorship Program Guide](https://github.com/angolaosc/mentorship/blob/main/resources/AOSC_Mentorship_Program_Guide.pdf).
 
 ---
 
