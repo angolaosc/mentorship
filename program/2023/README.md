@@ -1,6 +1,6 @@
 # AOSC Mentorship 1.0 - Agosto de 2023 até Setembro de 2023
 
-Estado: Pleaneando
+`Estado`: Acontecendo
 
 A primeira edição do `AOSC Mentorship` está prevista para Agosto de 2023 até Setembro de 2023.
 O programa terá duração de 1 mês.
@@ -12,8 +12,8 @@ O programa terá duração de 1 mês.
 | ~~Submissão dos projectos~~ | ~~25 à 04 de Agosto~~      |
 | ~~Pre-mentoring Talk~~ | ~~31 de Julho(Tentativa)~~ |
 | ~~Inscrições de participantes~~ | ~~05 à 17 de Agosto~~          |
-| Avaliações das inscrições | 18 à 19 de Agosto           |
-| Anúncio de mentorados seleccionados | 20 de Agosto de 2023       |
+| ~~Avaliações das inscrições~~ | ~~18 à 19 de Agosto~~           |
+| ~~Anúncio de mentorados seleccionados~~ | ~~20 de Agosto de 2023~~       |
 | Fase da mentoria | 21 de Agosto               |
 | Submissão dos blogs | 04 à 08 de Setembro        |
 | Fim do programa | 09 de Setembro             |
