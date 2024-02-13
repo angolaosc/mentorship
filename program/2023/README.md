@@ -23,7 +23,7 @@ O programa terá duração de 1 mês.
 
 Mantenedores de projectos e potenciais mentores são convidados a submeter descrição de seus projectos através da submissão de um PR no GitHub aqui [AOSC Mentorship Program]() até 04 de Julho de 2023. Encontre o modelo de submissão [aqui](https://github.com/angolaosc/mentorship/blob/main/PROJECT_IDEA_TEMPLATE.md).
 
-Porfavor, encorajamos os mantenedores de projectos a submeterem seus projectos o mais cedo possível para que os participantes tenham tempo suficiente para se familiarizarem com os projectos e fazerem suas escolhas.
+Por favor, encorajamos os mantenedores de projectos a submeterem seus projectos o mais cedo possível para que os participantes tenham tempo suficiente para se familiarizarem com os projectos e fazerem suas escolhas.
 
 ### Instruções de inscrição para participantes
 
@@ -59,9 +59,9 @@ Mais informações sobre o projecto aqui: https://github.com/risk-place-angola/b
 - Problema de Origem (URL): https://github.com/risk-place-angola/backend-risk-place/issues/85
 - Nível de dificuldade: Médio
 
-#### Client Code Generators - É uma Biblioteca (open-source) para Converter pedidos HTTP em diferentes linguagens à sua escolha, gerando código de pedido HTTP para o mesma linguagenm.
+#### Client Code Generators - É uma Biblioteca (open-source) para Converter pedidos HTTP em diferentes linguagens à sua escolha, gerando código de pedido HTTP para o mesma linguagem.
 ##### Adicionar variante Dio na linguagem Dart - raw data body
-- Descrição: O [Client Code Generators](https://github.com/Paulo-Lopes-Estevao/client-code-generators) é uma Biblioteca (open-source) para Converter pedidos HTTP em diferentes linguagens à sua escolha, gerando código de pedido HTTP para o mesma linguagenm.
+- Descrição: O [Client Code Generators](https://github.com/Paulo-Lopes-Estevao/client-code-generators) é uma Biblioteca (open-source) para Converter pedidos HTTP em diferentes linguagens à sua escolha, gerando código de pedido HTTP para o mesma linguagem.
 É um pacote escrito em dart baseado no pacote [Postman Code Generators](https://github.com/postmanlabs/postman-code-generators) do Postman.
 O pacote possui 1 variante em dart, que é o http, mas precisamos adicionar mais uma variante, que é o dio.
 A variante Dio deve dar suporte a raw data body e headers.
@@ -182,7 +182,7 @@ Problemas de Origem (URL): https://github.com/angolaosc/monitora-angola/issues/3
 
 ##### Atualizar o pacote web_socket_channel
 
-- Descrição: Atualizar o web_socket_channel para ter acesso as ultimas atualizações que inclue a possibilidade de adicionar Headers na conexão.
+- Descrição: Atualizar o web_socket_channel para ter acesso as ultimas atualizações que inclui a possibilidade de adicionar Headers na conexão.
 - Resultado esperado: Atualizar o pacote web_socket_channel para versão 2.4.0 
 - Habilidades recomendadas: Flutter, Dart, Inglês básico.
 - Mentor: António Nicolau ([@antonio-nicolau](https://github.com/antonio-nicolau)).
@@ -202,7 +202,7 @@ Problemas de Origem (URL): https://github.com/angolaosc/monitora-angola/issues/3
 - Resultado esperado: 
   - Adicionar o pacote graphql_flutter
   - Adicionar requisições GraphQL as collections
-  - Adicionar Autenticação para GraphQL (username & passsword, Bearer, apiKey por enquanto)
+  - Adicionar Autenticação para GraphQL (username & password, Bearer, apiKey por enquanto)
   - Atualizar os widgets de envio/resposta de requests para suportar GraphQL
 - Habilidades recomendadas: Flutter, Dart, Riverpod, Http, WebSocket, GraphQL, Inglês intermediário.
 - Mentor: António Nicolau ([@antonio-nicolau](https://github.com/antonio-nicolau)).
@@ -212,4 +212,4 @@ Problemas de Origem (URL): https://github.com/angolaosc/monitora-angola/issues/3
 
 Encorajamos os participantes a se juntarem aos nossos canais de comunicação para se conectarem com outros participantes e mentores. O link para o canal será compartilhado com os participantes selecionados.
 
-Para disucssões gerais, porfavor, use o canal `#aosc-mentorship` no [AOSC Discord](https://discord.gg/tuUDNdRzvze).
+Para discussões gerais, por favor, use o canal `#aosc-mentorship` no [AOSC Discord](https://discord.gg/tuUDNdRzvze).

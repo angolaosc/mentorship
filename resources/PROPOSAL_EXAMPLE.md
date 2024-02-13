@@ -1,7 +1,7 @@
-[Porfavor, note que, este documento é um exemplo]
+[Por favor, note que, este documento é um exemplo]
 [Este documento deve ser submetido como um documento .doc ou .pdf.]
-[Porfavor, note que algumas informações mencionadas aqui são opcionais, exemplo cronograma]
-[Recomendamos que os candidatos entrem em contacto com os respectivos mentores do projecto selecionado para mais detalhe sobre o que é relavante incluir neste document]
+[Por favor, note que algumas informações mencionadas aqui são opcionais, exemplo cronograma]
+[Recomendamos que os candidatos entrem em contacto com os respectivos mentores do projecto selecionado para mais detalhe sobre o que é relevante incluir neste document]
 [Para cada projecto que você pretende contribuir, você precisa elaborar um proposta de solução para cada]
 
 # Proposta AOSC Mentorship 202XX - 1.0 - [Nome do Projeto]
