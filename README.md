@@ -8,7 +8,7 @@ Os objectivos do programa são:
 - Preparar os desenvolvedores com conhecimentos essenciais sobre ferramentas e práticas utilizadas no desenvolvimento de software livre
 - Conectar mentores experientes, colaboradores e organizações.
 
-O `AOSC Mentorship` está recebndo inscrições para a primeira turma: [Primeira Edição, Agosto de 2023](program/2023/README.md).
+O `AOSC Mentorship` está recebendo inscrições para a primeira turma: [Primeira Edição, Agosto de 2023](program/2023/README.md).
 
 ## Estrutura do Programa
 
